@@ -1,1 +1,731 @@
-# test
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="format-detection" content="telephone=no,address=no,email=no" />
+  <title lang="ja">P-oneカード会員規約 </title>
+  <link rel="icon" href="/kitei/demo_sd_suzuki/favicon/red/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/kitei/demo_sd_suzuki/favicon/red/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/kitei/demo_sd_suzuki/admin/parts/style.css?v=20250730160100" type="text/css" />
+  <link rel="stylesheet" href="/kitei/demo_sd_suzuki/assets/css/reset-table.css?v=20250730160100" />
+  <link rel="stylesheet" href="/kitei/demo_sd_suzuki/admin/parts/caption.css?v=20250730160100" type="text/css" />
+  <link rel="stylesheet" href="/kitei/demo_sd_suzuki/admin/parts/decoration.css?v=20250730160100" type="text/css" />
+  <style>
+    body {
+      line-height: 1.5em;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    @media print {
+      img {
+        page-break-inside: avoid;
+        max-height: 99vh;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="indent1" style="line-height:1.5;overflow-wrap:anywhere;word-break:break-word;">
+    <div
+      style="margin-bottom:1em;font-family:var(--font-family-indent1);font-size:var(--font-title-size-indent1);">
+      P-oneカード会員規約 
+    </div>
+    <div
+      style="margin-bottom:0.5em;text-align:right;font-family:var(--font-family-indent1);font-size:var(--font-size-indent1);">
+      
+    </div>
+    <div
+      style="margin-bottom:0.5em;font-family:var(--font-family-indent1);font-size:var(--font-size-indent1);">
+      
+    </div>
+    <div
+      style="margin-bottom:0.5em;font-family:var(--font-family-indent1);font-size:var(--font-size-indent1);">
+      <div class=maegaki id="rule_583" style="margin-left: 0px; padding-left: 0px; text-indent: 14px;" align="center"><span class="fw-bold fs-20">P-oneカード会員規約</span></div>
+<div class=table id="rule_1259" style="padding-left: 0px;" align="center"><table><tbody><tr><td valign="top" style="border:solid #ee0000 1.0pt;"><p><span class="fw-bold fs-14 color-red">会員規約をよくお読みいただいたうえで、ご利用ください。</span></p></td></tr></tbody></table></div>
+<div  style="" id="rule_1263">&emsp;</div>
+<div class=maegaki id="rule_585" style="margin-left: 0px; padding-left: 0px; text-indent: 14px;" align="center"><span class="fw-bold">P-oneカード特約</span></div>
+<div class=jou id="rule_586" style=""><span class="fw-bold">第１条&emsp;（名称）</span></div>
+<div class=jou-text id="rule_587" style="">ポケットカード株式会社（以下「当社」といいます。）は、当社独自のカードである「P-oneカード〈Standard〉」「P-oneカード〈G〉」「P-oneカード〈PremiumGold〉」（以下総称して「本カード」といいます。）の発行をいたします。</div>
+<div class=jou id="rule_588"><span class="fw-bold">第２条&emsp;（用語の定義）</span></div>
+<div class=rui id="rule_589">（１）本特約で定義されていない用語は、後掲の会員規約で定めた用語の定義に従うものとします。</div>
+<div class=rui id="rule_590">（２）本人会員とは、本特約および後掲の会員規約（以下総称して「規約」といいます。）を承認のうえ、当社に対し本カードのうち1種類を選択して入会を申込み、当社が入会を認めた方をいいます。</div>
+<div class=rui id="rule_591">（３）家族会員とは、本人会員が利用代金のお支払い、その他規約に基づくすべての責任を引き受けることを承認した家族で、当社が利用を認めた方をいいます（以下本人会員と家族会員をあわせて「会員」といいます。）。</div>
+<div class=rui id="rule_592">（４）家族会員は、規約に基づき、当社が家族会員用に発行したクレジットカード（以下「家族カード」といいます。また、以下の条項における「本カード」には家族カードを含むものとします。）および会員番号等のカード上の情報を利用することができます。</div>
+<div class=rui id="rule_593">（５）本カードは、クレジットカード（以下「カード」といいます。）の種別により利用可能枠等のサービス内容が異なります。</div>
+<div class=rui id="rule_594">（６）本カードの利用可能枠は、家族会員の利用を含んだ本人会員の利用可能枠とし、当社が審査し決定した額までとします。</div>
+<div class=jou id="rule_595" style=""><span class="fw-bold">第３条&emsp;（手数料・利率）</span></div>
+<div class=jou-text id="rule_596">本カードには、カードの種別により、以下の手数料率・利率が適用されるものとします。</div>
+<div class=jou-text id="rule_597">●カードショッピングに適用される手数料率表</div>
+<div class=table id="rule_598"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>カードの種別</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>リボルビング払い</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード〈Standard〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率17.95%</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード〈G〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率15.00%</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード〈PremiumGold〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率15.00%</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_599">注：ご利用月の翌月1日より支払日迄の1年を365日とする日割計算となります。</div>
+<div class=jou-text id="rule_600">●分割払いの支払回数、支払期間および分割払手数料の料率表（P-oneカード〈Standard〉）</div>
+<div class=table id="rule_601"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払回数（回）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>4</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払期間（ヶ月）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>4</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>手数料の料率</p><p style="padding-left: 28px; text-indent: -28px;">（実質年率・％）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>現金価格100円当たりの手数料の額（円）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">2.25</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">3.01</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">3.77</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">4.53</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">5.30</p></td></tr></tbody></table></div>
+<div class=table id="rule_602"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>7</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>9</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>7</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>9</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">6.07</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">6.85</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">7.63</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">8.41</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">9.20</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">9.99</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10.78</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11.58</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12.38</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13.19</p></td></tr></tbody></table></div>
+<div class=table id="rule_603"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>25</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>26</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>25</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>26</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13.99</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14.81</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.62</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16.44</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.27</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18.09</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18.93</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19.76</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20.60</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21.44</p></td></tr></tbody></table></div>
+<div class=table id="rule_604"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>27</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>28</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>30</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>32</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>33</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>34</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>35</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>36</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>27</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>28</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>30</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>32</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>33</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>34</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>35</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>36</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.95</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22.29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23.13</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23.99</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24.84</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>25.70</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>26.57</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>27.43</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>28.31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>29.18</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>30.06</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_605">＜具体的算定例＞</div>
+<div class=jou-text id="rule_606">現金価格10万円（税込）支払回数10回（頭金なし）の場合</div>
+<div class=jou-text id="rule_607">分割払手数料の額 ：10万円×8.41円÷100円=8,410円</div>
+<div class=jou-text id="rule_608">支払総額 ：10万円＋8,410円=108,410円</div>
+<div class=jou-text id="rule_609">月々の分割支払金 ：108,410円÷10=10,841円</div>
+<div class=jou-text id="rule_610">（100円未満は初回にお支払い）</div>
+<div class=jou-text id="rule_611">初回の分割支払金 ：10,800円＋（41円×10回）=11,210円</div>
+<div class=jou-text id="rule_612">2回目以降の分割支払金 ：10,800円</div>
+<div class=jou-text id="rule_613">●分割払いの支払回数、支払期間および分割払手数料の料率表（P-oneカード〈G〉、P-oneカード〈PremiumGold〉）</div>
+<div class=table id="rule_614"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払回数（回）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>4</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払期間（ヶ月）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>4</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>手数料の料率</p><p style="padding-left: 28px; text-indent: -28px;">（実質年率・％）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>現金価格100円当たりの手数料の額（円）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">1.88</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">2.51</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">3.14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">3.78</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">4.42</p></td></tr></tbody></table></div>
+<div class=table id="rule_615"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>7</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>9</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>7</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>9</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">5.06</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">5.71</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">6.35</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">7.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">7.66</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">8.31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">8.97</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">9.63</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10.29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10.95</p></td></tr></tbody></table></div>
+<div class=table id="rule_616"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>25</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>26</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>25</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>26</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>11.62</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12.29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12.97</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13.64</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>14.32</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.68</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>16.37</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.06</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>17.75</p></td></tr></tbody></table></div>
+<div class=table id="rule_617"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>27</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>28</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>30</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>32</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>33</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>34</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>35</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>36</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>27</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>28</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>29</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>30</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>31</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>32</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>33</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>34</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>35</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>36</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>15.00</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>18.44</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19.14</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>19.83</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>20.54</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21.24</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>21.95</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>22.65</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>23.37</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24.08</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>24.80</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_618">＜具体的算定例＞</div>
+<div class=jou-text id="rule_619">現金価格10万円（税込）支払回数10回（頭金なし）の場合</div>
+<div class=jou-text id="rule_620">分割払手数料の額 ：10万円×7.00円÷100円=7,000円</div>
+<div class=jou-text id="rule_621">支払総額 ：10万円＋7,000円=107,000円</div>
+<div class=jou-text id="rule_622">月々の分割支払金 ：107,000円÷10=10,700円</div>
+<div class=jou-text id="rule_623">●ボーナス一括払いの支払回数、支払期間および分割払手数料の料率表</div>
+<div class=table id="rule_624"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払回数（回）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払期間（ヶ月）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2〜9</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>手数料の料率（実質年率・％）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">0.00</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>現金価格100円当たりの手数料の額（円）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">0.00</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_625">＜具体的算定例＞</div>
+<div class=jou-text id="rule_626">現金価格10万円（税込）の場合</div>
+<div class=jou-text id="rule_627">分割払手数料の額 ：10万円×0.00%=0円</div>
+<div class=jou-text id="rule_628">支払総額 ：10万円＋0円=100,000円</div>
+<div class=jou-text id="rule_629">分割支払金 ：100,000円（支払総額と同額になります。）</div>
+<div class=jou-text id="rule_630">●ボーナス2回払いの支払回数、支払期間および分割払手数料の料率表</div>
+<div class=table id="rule_631"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払回数（回）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>2</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払期間（ヶ月）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6〜15</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>手数料の料率（実質年率・％）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">5.03〜13.39</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>現金価格100円当たりの手数料の額（円）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 14px; text-indent: -14px;">3.00</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_632">＜具体的算定例＞</div>
+<div class=jou-text id="rule_633">現金価格10万円（税込）の場合</div>
+<div class=jou-text id="rule_634">分割払手数料の額 ：10万円×3.00円÷100円=3,000円</div>
+<div class=jou-text id="rule_635">支払総額 ：10万円＋3,000円=103,000円</div>
+<div class=jou-text id="rule_636">月々の分割支払金 ：103,000円÷2=51,500円</div>
+<div class=jou-text id="rule_637">●カードキャッシングに適用される利率表</div>
+<div class=table id="rule_638"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>カードの種別</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>一括払い</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>リボルビング払い</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード</p><p>〈Standard〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード〈G〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>P-oneカード</p><p>〈PremiumGold〉</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>実質年率</p><p>14.95〜17.95%</p></td></tr></tbody></table></div>
+<div class=jou-text id="rule_639">注：ご利用日当日から支払日迄の1年を365日とする日割計算となります。</div>
+<div class=jou id="rule_640" style=""><span class="fw-bold">第４条&emsp;（適用される規約）</span></div>
+<div class=rui id="rule_641">（１）本特約に定めのない事項については、会員規約が適用されます。</div>
+<div class=rui id="rule_642">（２）本特約と会員規約の定めが異なる場合には、本特約が優先して適用されます。</div>
+<div class=rui id="rule_643">（３）本カードには、Mastercard機能を有するカード、Visa機能を有するカード、JCB機能を有するカードが含まれ、本規約のMastercard機能、Visa機能、JCB機能についての規定は、それぞれのカードに適用します。</div>
+<div class=jou id="rule_644"><span class="fw-bold">第５条&emsp;（電磁的な方法による書面の提供）</span></div>
+<div class=rui id="rule_645">（１）当社は、カードを送付する際に、規約を掲載しているURL（以下「規約URL」といいます。）を記載した書面を送付します。本人会員は、規約URLより規約を閲覧、確認し、本人会員自身の端末に保存するものとします。</div>
+<div class=rui id="rule_646">（２）当社は、本カードの有効期限が到来するときは、本人会員より退会等の申出がなく、かつ当社が引き続き本人会員として認める場合には、有効期限を更新した新しいカードを送付します。なお、当社は、新しいカードを送付する際に、規約URLを記載した書面等を送付します。本人会員は、規約URLより最新の情報を閲覧、確認し、これらを本人会員自身の端末に保存するものとします。また、本人会員は、当社のホームページ（https://www.pocketcard.co.jp）にて随時、最新の規約を確認するものとします。</div>
+<div class=rui id="rule_647">（３）前２項に基づく規約の情報提供に関わるWeb閲覧用ブラウザおよび暗号化通信環境等の利用環境は、当社ホームページにて指定するものとします。本人会員は、当社が指定する利用環境を整えるものとし、当社が利用環境を変更した場合も同様とします。</div>
+<div class=jou id="rule_648" style=""><span class="fw-bold">第６条&emsp;（ご利用代金明細書）</span></div>
+<div class=rui id="rule_649">（１）会員は、カードの種別によって、当社所定の手続きを取っていただくことで、後掲の会員規約第10条（5）に定めるご利用代金明細書（以下「明細書」といいます。）の記載事項を、原則として、当社が電子メールの送信その他の電磁的な方法により提供するものとします。</div>
+<div class=rui id="rule_650">（２）前項において、会員の希望により明細書の郵送を行う場合は、会員は、当社所定の費用をお支払いいただくものとします。</div>
+<div class=jou id="rule_651"><span class="fw-bold">第７条&emsp;（会員資格の喪失）</span></div>
+<div class=rui id="rule_652">（１）本人会員について、退会、カードの使用停止、または会員資格の喪失のいずれかが生じたときは、当然に家族会員についても同一の効果が生じるものとします。</div>
+<div class=rui id="rule_653">（２）家族会員は、前項のほか、本人会員が当社所定の方法により家族会員による家族カードの利用の中止を申し出た場合、その申出時をもって当然に、家族カードの利用ができなくなるものとします。</div>
+<div class=rui id="rule_654">（３）本人会員は、家族会員に対する権限の付与について、撤回、取消または無効等の消滅事由があるときは、家族カードの利用中止を直ちに申し出るものとします。本人会員は、この利用中止の申出がない限り、家族会員への権限付与が消滅したことを、当社に主張することができないものとします。</div>
+<div class=jou id="rule_655" style=""><span class="fw-bold">第８条&emsp;（費用等の負担）</span></div>
+<div class=rui id="rule_656">（１）本人会員には、家族カードのカード情報の維持管理費用（以下「カード管理料」といいます。）として、当社所定の費用をお支払いいただく場合があります。ただし、カードの種別またはカードのお申込状況によっては、当社が別に定めて公表または通知するまで無料とする場合があります。</div>
+<div class=rui id="rule_657" style="">（２）カード管理料は、退会、会員資格の取消その他理由を問わずお返しいたしません。また、カード管理料のみの請求の場合、当社は請求書の発行を省略することがあります。</div>
+<div  style="" id="rule_1264">&emsp;</div>
+<div  id="rule_658" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="center"><span class="fw-bold">会員規約</span></div>
+<div  id="rule_659" style="" align=""><span class="fw-bold">【一般条項】</span></div>
+<div class=jou id="rule_660"><span class="fw-bold">第９条&emsp;（会員）</span></div>
+<div class=jou-text id="rule_661">会員とは、本規約を承認のうえ、ポケットカード株式会社（以下「当社」といいます。）に対し当社が発行するクレジットカード（以下「カード」といいます。）の申込みをされ、当社が入会を認めた方をいいます。また、当社において入会のために必要な手続きを完了した日を契約成立日とします。</div>
+<div class=jou id="rule_662" style=""><span class="fw-bold">第10条&emsp;（カードの発行・取扱い）</span></div>
+<div class=rui id="rule_663">（１）カードには、Mastercard機能を有するカード、Visa機能を有するカード、JCB機能を有するカードが含まれ、本規約のMastercard機能、Visa機能、JCB機能についての規定は、それぞれのカードに適用します。</div>
+<div class=rui id="rule_664">（２）当社は、会員に氏名・会員番号・有効期限等を印字したカードを発行し貸与いたします。なお、カードの所有権は当社に属します。</div>
+<div class=rui id="rule_665">（３）会員は、カードを貸与されたときは善良なる管理者の注意をもってカードを使用・保管・管理するものとします。なお、カード裏面に署名欄がある場合は、直ちに自署するものとします。また会員は、カードを破壊、分解等またはカードに格納された情報の漏えい、複製、改ざん、解析等を行わないものとします。なお、当社は、当社が必要と認めたときは、カードを無効化のうえ、カードの再発行手続を行い、カード番号を変更することができるものとします。</div>
+<div class=rui id="rule_666">（４）カードは、会員のみが利用でき、会員はこれを貸与、譲渡、質入れその他の担保提供、寄託、占有の移転その他一切の処分をすることはできません。</div>
+<div class=rui id="rule_667">（５）カード上の会員番号、氏名、有効期限等の情報（以下総称して「カード情報」といいます。）は、会員のみが利用できます。会員は善良なる管理者の注意をもってカード情報を管理し、利用するものとします。会員は、カード情報を会員以外の者に使用させることおよび提供することはできません。</div>
+<div class=rui id="rule_668">（６）（3）から（5）の各規定に違反してカードまたはカード情報が使用された場合に生ずる一切の債務についてのお支払いは、会員の責任といたします。</div>
+<div class=rui id="rule_669">（７）カードの有効期限は当社の指定する月の末日とし、カードに印字または記載します。当社は、会員より退会等の申出がなく、当社が引き続き会員として認める場合には、有効期限を更新した新しいカード（以下「更新カード」といいます。）を送付します。ただし、当社所定の時期に会員から当社所定の年会費のお支払いがない場合、当社所定の期間カードの利用がない場合または当社所定の基準により、更新カードを発行しない場合があります。なお、更新カードを発行する時期は、次のいずれかの事由により当社が定めるものとします。</div>
+<div class=moku id="rule_670">①&emsp;有効期限が到来するとき。</div>
+<div class=moku id="rule_671">②&emsp;カードの機能またはデザインを変更するとき。</div>
+<div class=moku id="rule_672">③&emsp;その他当社が必要と認めるとき。</div>
+<div class=rui id="rule_673">（８）会員は、カードの有効期限が経過した場合、当該カードを会員の責任において切断する等、利用不能の状態にして処分しなければなりません。有効期限前のカードまたはカード情報の利用によるお支払いについては、有効期限経過後といえども、本規約を適用するものとします。</div>
+<div class=jou id="rule_674"><span class="fw-bold">第11条&emsp;（暗証番号）</span></div>
+<div class=rui id="rule_675">（１）会員は、生年月日、電話番号、同じ数字4桁等、第三者から推測されやすい番号以外の暗証番号を入会の申込時に登録していただきます。</div>
+<div class=rui id="rule_676">（２）暗証番号の申出がない場合または会員が登録した暗証番号を当社が暗証番号として不適切と判断した場合、当社は、当社が指定する暗証番号を登録し、会員にその旨を通知します。</div>
+<div class=rui id="rule_677">（３）会員は、暗証番号を第三者に知られないよう善良なる管理者の注意をもって管理するものとします。</div>
+<div class=rui id="rule_678">（４）登録された暗証番号が使用されたときは、当社に責めがある場合を除き、そのために生ずる一切の債務についてのお支払いは会員の責任といたします。</div>
+<div class=rui id="rule_679">（５）当社は、ICチップを組み込んだカード（以下「ICカード」といいます。）の暗証番号を会員の申請により変更する場合、カードの再発行を行うものとします。</div>
+<div class=jou id="rule_680"><span class="fw-bold">第12条&emsp;（年会費）</span></div>
+<div class=rui id="rule_681">（１）会員は、当社に対し所定の年会費をお支払いいただきます。ただし、年会費について当社が別途定めて公表または通知するまで無料とする場合があります。</div>
+<div class=rui id="rule_682">（２）年会費は、退会、会員資格の取消その他理由を問わずお返しいたしません。また、年会費のみの請求の場合、当社は請求書の発行を省略することがあります。</div>
+<div class=jou id="rule_683"><span class="fw-bold">第13条&emsp;（カードの利用可能枠等）</span></div>
+<div class=rui id="rule_684">（１）カードの利用可能枠は当社が審査し決定した額までとします。なお、カードの利用可能枠は、カードショッピングの利用代金、カードキャッシング・ローンサービスの支払元利金、通信販売代金、その他当社の提供するすべての商品・サービスの代金および諸手数料の上限額を定めるものです。ただし、年会費およびリボルビング払いにおける手数料はこれに含まれません。</div>
+<div class=rui id="rule_685">（２）会員は、利用可能枠を超えてカードまたはカード情報を利用してはならないものとします。また、利用可能枠を超えてカードを使用した場合、会員は利用可能枠を超えた金額を一括して支払うものとします。</div>
+<div class=rui id="rule_686">（３）当社は、第18条またはその他の事情を勘案して必要と認めた場合には、利用可能枠の増額または減額の変更をさせていただきます。ただし、当社は、会員から増額を希望しない旨の申出があった場合、増額前の利用可能枠に戻す処置を取るものとします。</div>
+<div class=rui id="rule_687">（４）当社のカードを2枚以上所持している場合には、各カードに定められた利用可能枠のうち、最も高い利用可能枠を会員のご利用可能な上限額とします。ただし、各カードにおける利用可能枠は、各カードに定められた額といたします。</div>
+<div class=jou id="rule_688"><span class="fw-bold">第14条&emsp;（カードの利用）</span></div>
+<div class=rui id="rule_689">（１）会員は、カードショッピング条項以下の規定に基づき、店舗または諸施設（以下総称して「加盟店」といいます。）でカードを提示し、ショッピング利用代金の金額等を確認のうえ、所定の端末に暗証番号を入力することまたはその他の当社が定める方法により、商品・権利の購入またはサービスの提供（以下「カードショッピング」といいます。）を受けることができます。また、会員は、別段の定めがない限り、カードキャッシング条項以下の規定に基づき、カードを利用して当社または提携機関・金融機関等を通じて当社から金銭の借入れ（以下「カードキャッシング」といいます。）をすることができます。</div>
+<div class=rui id="rule_690">（２）当社は、カード申込時に会員が申込当日より利用できるカード（カード利用時には当社の審査が必要となります。以下「即時発行カード」といいます。）を貸与する場合があります。即時発行カードの利用は前項の加盟店のうち特に当社が定める加盟店での利用に限ります。なお、カード到着後は即時発行カードを破棄し、到着したカードを利用していただきます。</div>
+<div class=jou id="rule_691"><span class="fw-bold">第15条&emsp;（手数料率・利率）</span></div>
+<div class=rui id="rule_692">（１）手数料率・利率は各カードにより異なります。カードショッピングのリボルビング払いの手数料率は、利用月の翌月1日より支払日迄の1年を365日とする日割計算といたします。カードキャッシングの利率は、利用日より支払日迄の1年を365日とする日割計算といたします。</div>
+<div class=rui id="rule_693">（２）本規約に基づく手数料率または利率は、金融情勢の変動その他相当の事由のある場合に変更する場合があります。当社から会員に手数料率または利率の変更を公表または通知した後は、変更後の利用から改定後の手数料率または利率が適用されます。</div>
+<div class=jou id="rule_694"><span class="fw-bold">第16条&emsp;（届出事項の変更等）</span></div>
+<div class=rui id="rule_695">（１）会員は、入会時もしくは入会後に当社にお届けいただいた会員の氏名、住所、電話番号、勤務先（勤務地、電話番号）、電子メールアドレス、国籍、在留資格、在留期間、口座振替指定口座または暗証番号等について変更があった場合には、電話その他当社がお知らせする方法により遅滞なく当社に届け出ていただきます。なお、届出がなされていない場合に、当社が適正かつ適法な方法により取得した情報により、届出事項に変更があると合理的に判断したときは、変更の届出があったものとして取扱うことがあります。この場合、会員は、当社の取扱いについて異議ないものとします。</div>
+<div class=rui id="rule_696">（２）会員は、前項の届出がないために、当社が発送した請求書等が延着し、または到達しない場合に、通常どおりに会員に到達したものとみなすことに異議がないものとします。ただし、会員が前項の届出を行わなかったこともしくは延着または不到達したことについて、やむを得ない事情があり、かつ、会員がこれを証明した場合はこの限りではありません。</div>
+<div class=rui id="rule_697">（３）会員は、（1）の届出事項について、当社もしくは当社の委託する者が調査すること、または当社が確認を求めた際にすみやかに応じることを承諾します。</div>
+<div class=rui id="rule_698">（４）当社は、届出事項の変更の有無にかかわらず、会員に対し、国籍の届出を求めることがあり、また、日本国籍を保有せずに本邦に居住している会員に対し、国籍、在留資格、在留期間の届出を求めることがあります。なお、会員は、これらの求めに応じるものとします。</div>
+<div class=rui id="rule_699">（５）会員は、家庭裁判所の審判により、補助、保佐もしくは後見が開始された場合または任意後見監督人が選任された場合には、成年後見人等の氏名その他の必要な事項を、それを証する書面を添えて、直ちに当社所定の方法により届け出ていただきます。</div>
+<div class=rui id="rule_700">（６）前項の届出事項に取消または変更等が生じた場合、会員には、前項と同様に届け出ていただきます。</div>
+<div class=jou id="rule_701"><span class="fw-bold">第17条&emsp;（取引時確認）</span></div>
+<div class=jou-text id="rule_702">会員は、「犯罪による収益の移転防止に関する法律」（以下「犯罪収益移転防止法」といいます。）に関し、次の各号の内容を承諾します。</div>
+<div class=moku id="rule_703">①&emsp;会員は、運転免許証等の本人確認書類その他の書類、または、その写し（総称して「本人確認書類等」といいます。）の提示・提出を求められたときは、これに協力すること。</div>
+<div class=moku id="rule_704">②&emsp;当社が、本人確認書類等の内容を確認すること、および本人確認書類等に基づき取引時確認等に関する記録簿を作成すること。</div>
+<div class=moku id="rule_705">③&emsp;当社は、取引時確認等が当社所定の期間内に完了しない場合、入会をお断りすることやカードの利用を制限することがあること。</div>
+<div class=moku id="rule_706">④&emsp;当社は、犯罪収益移転防止法に基づき当社と提携する金融機関、提携企業等に取引時確認等の業務を委託することがあること。</div>
+<div class=moku id="rule_707">⑤&emsp;当社は、犯罪収益移転防止法に基づき本人確認書類等の写しを提出された場合には、保管が義務付けられているため会員に返却できないこと。</div>
+<div class=jou id="rule_708" style=""><span class="fw-bold">第18条&emsp;（お支払い）</span></div>
+<div class=rui id="rule_709">（１）カードショッピングの利用代金および手数料、カードキャッシングの借入金および利息（利息制限法で定められた利率を超えた利息の場合、利息制限法で定められた利率を超えた部分の利息についての支払義務はありません。）等、その他本規約に基づく会員の当社に対する一切の支払債務（以下総称して「カード利用による支払金等」といいます。）は、会員があらかじめ指定した金融機関の預金口座からの口座振替またはゆうちょ銀行の貯金口座からの自動払込（以下総称して「振替」といいます。）によりお支払いいただきます。</div>
+<div class=rui id="rule_710">（２）会員は、カード申込みに際し当社所定の口座振替手続きを行います。会員が、会員本人名義以外の口座を用いて口座振替手続きを行う場合、口座名義人の承諾を得たものとして口座振替手続きを行います。なお、当社は、口座振替手続き完了前でもカードの発行を行うことがあります。</div>
+<div class=rui id="rule_711">（３）カード利用による支払金等は、原則として毎月末日に締切り、翌々月の1日（当日が金融機関の休業日の場合は翌営業日）に会員があらかじめ指定した口座から振替により支払われます（事務上の都合により、当該約定支払日以降のお支払いとなることがあります。）。ただし、カードショッピングの1回払いのみ、毎月1日に締切り、翌月の1日（当日が金融機関の休業日の場合は翌営業日）に会員があらかじめ指定した口座から振替により支払うものとします。また、当社が適当と認めるときは、当社の指定する預金口座への振込等当社が別途指定する方法で支払うものとします。</div>
+<div class=rui id="rule_712">（４）会員は、会員が指定した金融機関等の口座の残高不足等により、約定支払日に振替ができない場合、当社が、金融機関等に約定支払日以降の任意の日において、カード利用による支払金等の全額または一部につき再度振替依頼を行う場合があることを承諾します。</div>
+<div class=rui id="rule_713">（５）当社は、会員に毎月のカード利用による支払金等をご利用代金明細書（以下「明細書」といいます。）により通知します。明細書の通知は、以下に定めるいずれかのうち、会員が指定した方法によるものとします。</div>
+<div class=moku id="rule_714">①&emsp;当社ホームページにあるカード会員専用のサイト（以下「ネットサービス」といいます。）内で掲載すること。この場合、当社は、会員の指定した電子メールアドレスに宛て上記の掲載を通知するものとし、会員は、すみやかにネットサービス内に掲載された情報を確認するものとします。</div>
+<div class=moku id="rule_715">②&emsp;会員の届出住所地に宛て郵送すること。なお、会員の申出があり当社が認めた場合には、会員の届出住所地以外の場所に宛て郵送を行います。</div>
+<div class=moku id="rule_716">③&emsp;その他、当社の定める方法により上記の情報を掲載すること。この場合、会員は、すみやかにその掲載された情報を確認するものとします。</div>
+<div class=rui id="rule_717">（６）会員は、カードキャッシングを利用した場合、貸金業法に定めるカードキャッシングに関する一定期間の利用（利息制限法で定める利率でのカードキャッシングの利用に限ります。）およびお支払いその他取引状況に関するお知らせについて、当社が書面で郵送または電磁的な方法により通知することに同意します。ただし、法令等により認められない場合はこの限りではありません。</div>
+<div class=rui id="rule_718">（７）前2項の各書面（以下総称して「明細書等」といいます。）の記載事項は、明細書等に記載する貸付の後に行われる貸付その他の事由により変動する場合があります。</div>
+<div class=rui id="rule_719">（８）当社は、会員が承諾する場合には、明細書等に代えて、電子メールの送信その他の電磁的な方法により明細書等の記載事項を提供することができるものとします。ただし、法令等により電磁的な方法によることが認められない場合はこの限りではありません。</div>
+<div class=rui id="rule_720">（９）会員は、明細書等が通知された後（電子メールの送信その他の電磁的な方法により明細書等の記載事項を当社が提供した場合には会員に到達後）、明細書等の内容に異議がある場合には、通知を受けた後10日以内に巻末記載のお客さまセンターまで申し出るものとします。また、会員の支払遅延等により明細書等での通知ができない場合があります。</div>
+<div class=jou id="rule_721" style=""><span class="fw-bold">第19条&emsp;（日本国外でのカード利用）</span></div>
+<div class=jou-text id="rule_722">日本国外でのカード利用については、以下の事項が適用されます。</div>
+<div class=moku id="rule_723" style="">①&emsp;カードショッピングの利用代金またはカードキャッシングの借入金が外貨通貨建ての場合、外貨額をMastercard International Incorporated（以下「Mastercard」といいます。）の決済センター、Visa International Service Association（以下「Visa International」といいます。）の決済センター、または株式会社ジェーシービー（以下「JCB」といいます。）の決済センター（以下これらを総称して「決済センター」といいます。）において集中決済された時点での決済センター所定の換算レートに、海外取引に関する事務処理費用を加えた換算レートで円貨に換算します。</div>
+<div class=moku id="rule_724">②&emsp;カードキャッシングの場合の支払方法は、残高スライド元利定額リボルビング払い（以下「リボルビング払い」といいます。）とします。</div>
+<div class=jou id="rule_725" style=""><span class="fw-bold">第20条&emsp;（支払金等の充当方法等）</span></div>
+<div class=rui id="rule_726">（１）会員の返済した金額が、本規約（特約を含みます。）または他の契約に基づく期限の到来した一切の債務を完済させるに足りないときは、当社が会員への通知なくして、法律で認められる範囲において、当社が適当と認める順序、方法により債務の充当をしても、会員は異議がないものとします。なお、そのお支払いが、期限の到来した債務の全額を超えている場合は、特に通知をせずに当社が適当と認める順序・方法によりいずれの期限未到来債務にも充当できるものとします。ただし、支払停止の抗弁にかかわる充当順序については、割賦販売法で定められている順序といたします。</div>
+<div class=rui id="rule_727">（２）当社から返金予定の会員で、翌月以降のお支払いがある場合、会員から申出がなかったときは、当社は、会員が当該返金金額を翌月以降のお支払いに充当する旨の申出を受けたものとして取扱うものとします。ただし、会員から別段の意思表示があった場合はこの限りではないものとします。</div>
+<div class=jou id="rule_728"><span class="fw-bold">第21条&emsp;（立替払の委託）</span></div>
+<div class=rui id="rule_729">（１）会員は、加盟店でカードを利用した場合、当社に対し立替払いを委託しているものとみなされ、当社が会員からの委託に基づき、加盟店等に対して立替払いすることを承諾します。なお、加盟店への立替払いに際しては、Mastercard、Visa International、JCBもしくはその提携するクレジットカード会社・金融機関等を経由する場合があります。</div>
+<div class=rui id="rule_730">（２）前項にかかわらず、当社が加盟店に対する立替払いを行うために、例外的に、当社、Mastercard、Visa International、JCBまたはそれらの関係会社と加盟店間の契約が債権譲渡契約となる場合があります。この場合、会員は当該債権譲渡が行われることについて承諾するものとし、割賦販売法その他の法令の定めにより加盟店等に対する抗弁を当社に主張できる場合を除いて、加盟店等に有する一切の抗弁権を放棄するものとします。</div>
+<div class=rui id="rule_731">（３）会員は、当社が本規約（特約を含みます。）に基づく会員に対する債権を、必要に応じ取引金融機関またはその関連会社、特定目的会社、もしくは債権回収会社に譲り渡すこと、もしくは当社が譲り渡した債権を譲受人から再び譲り受けることおよびこれらに伴い、債権管理に必要な情報を取得・提供することにつき承諾します。</div>
+<div class=rui id="rule_732">（４）カードの利用による取引上の紛議は、会員と加盟店とにおいて解決するものとします。また、カードの利用により加盟店と取引した後に加盟店との合意によってこれを取り消す場合は、その代金の精算については当社所定の方法によるものとします。</div>
+<div class=jou id="rule_733" style=""><span class="fw-bold">第22条&emsp;（期限の利益の喪失）</span></div>
+<div class=rui id="rule_734">（１）会員が次のいずれかの事由に該当した場合は、当然に期限の利益を失い、当社に対する未払債務の全額を直ちに支払うものとします。</div>
+<div class=moku id="rule_735">①&emsp;カードショッピングにかかわる債務のお支払いを遅滞し、当社から20日以上の相当な期間を定めて書面で催告を受けたにもかかわらず、その期間内にお支払いがなかった場合。</div>
+<div class=moku id="rule_736">②&emsp;商品等の購入等が会員にとって営業のためもしくは営業として締結するものであるなど割賦販売法第35条の3の60第1項に該当する取引となる場合で、カードショッピングにかかわる債務のお支払いを1回でも遅滞した場合。</div>
+<div class=moku id="rule_737">③&emsp;カードキャッシングにかかわる債務のお支払いを1回でも遅滞した場合（利息制限法第1条第1項に規定する利率を超えない範囲においてのみ効力を有します。）。ただし、カードショッピングにかかる債務とカードキャッシングにかかる債務が並存するときは、カードキャッシングにかかる債務についてのみ期限の利益を失います。</div>
+<div class=moku id="rule_738">④&emsp;カードを第三者に貸与、譲渡、質入れ、または担保提供などをし、もしくは商品の質入れ、譲渡、または賃貸など、当社のカードの所有権または商品の所有権を侵害する行為をした場合。</div>
+<div class=moku id="rule_739">⑤&emsp;カード情報を第三者に不正に提供し、または使用させた場合。</div>
+<div class=moku id="rule_740">⑥&emsp;会員が自ら振出し、または引き受けた手形、小切手が不渡りになる等、支払停止状態となった場合。</div>
+<div class=moku id="rule_741">⑦&emsp;会員が差押、仮差押、仮処分、競売の申立てまたは租税公課の滞納処分を受けた場合。</div>
+<div class=moku id="rule_742">⑧&emsp;会員が破産、民事再生の申立てをした場合。</div>
+<div class=moku id="rule_743">⑨&emsp;会員に債務整理のための和解、調停等の申立てがあった場合、または、債務整理のため弁護士等に依頼した旨の通知が当社に到達した場合。</div>
+<div class=moku id="rule_744">⑩&emsp;本規約に基づく取引以外の当社との他の契約に基づく期限の利益を喪失した場合。</div>
+<div class=rui id="rule_745">（２）会員が次のいずれかの事由に該当した場合は、当社からの請求により期限の利益を失い、当社に対する未払債務の全額を直ちに支払うものとします。</div>
+<div class=moku id="rule_746">①&emsp;入会の申込みに際して虚偽の申告があった場合。</div>
+<div class=moku id="rule_747">②&emsp;会員の経営する会社に、破産、民事再生、会社更生、または特別清算の申立てがあった場合もしくは解散または営業の廃止があった場合。</div>
+<div class=moku id="rule_748">③&emsp;会員の信用状態が著しく悪化した場合。</div>
+<div class=moku id="rule_749">④&emsp;次条の規定により会員資格を取り消された場合。</div>
+<div class=moku id="rule_750">⑤&emsp;その他本規約（特約を含みます。）に違反し、それが重大なものである場合。</div>
+<div class=jou id="rule_751"><span class="fw-bold">第23条&emsp;（会員資格の喪失およびカードの一時利用停止等）</span></div>
+<div class=rui id="rule_752">（１）当社は、次のいずれかに該当した場合、特に会員に通知することなく、会員資格を取り消し、利用可能枠内であってもカードを一時利用停止し、または利用可能枠を変更する等の措置を取ることができるものとします。なお、これにより生じた損害のてん補はいたしません。</div>
+<div class=moku id="rule_753">①&emsp;会員が入会時または入会後に氏名、住所、勤務先等について虚偽の申告をした場合。</div>
+<div class=moku id="rule_754">②&emsp;当社所定の期間内に第10条（2）に定める口座振替手続きが完了しない場合。</div>
+<div class=moku id="rule_755">③&emsp;第10条（1）に定めるお支払いがない場合。</div>
+<div class=moku id="rule_756">④&emsp;第5条（2）に定める利用可能枠を超えてカードまたはカード情報を使用した場合。</div>
+<div class=moku id="rule_757">⑤&emsp;会員が貸金業法または日本貸金業協会自主規制基本規則に基づく収入証明書の徴求依頼を拒否した場合、もしくは収入証明書を偽造し、または虚偽の収入証明書を当社に提出した場合。</div>
+<div class=moku id="rule_758">⑥&emsp;犯罪収益移転防止法に基づく本人確認書類その他当社が必要と認める書類の提出または当社が必要と認める事項の申告を求めたにもかかわらず、所定の期日までにその提示、提出、申告等がない場合やマネー・ローンダリング対策に関する制度の整備が十分に行われていないと認められる国または地域においてカードを利用する場合、その他犯罪収益移転防止法および関連するガイドライン等の規制に鑑みて当社が必要と認める場合。</div>
+<div class=moku id="rule_759">⑦&emsp;第8条（4）に基づく届出の求めに応じなかった場合。</div>
+<div class=moku id="rule_760">⑧&emsp;会員が有効な運転免許証の交付を受けている場合において、当社が会員に対し運転免許証の番号を届出するよう通知したにもかかわらず、所定の期日までにその届出がない場合。</div>
+<div class=moku id="rule_761">⑨&emsp;会員が個人事業主の場合、当社による事業計画書、収支計画書、資金計画書およびその他書類（以下「計画書等」といいます。）の徴求依頼を拒否した場合、もしくは虚偽の計画書等を当社に提出した場合。</div>
+<div class=moku id="rule_762">⑩&emsp;会員が前条（1）および（2）の各号のいずれかに該当した場合。</div>
+<div class=moku id="rule_763">⑪&emsp;第16条（1）の当社への連絡後、カードの再発行の届出を行わずに一定期間経過した場合。</div>
+<div class=moku id="rule_764">⑫&emsp;第18条により会員資格の取消、カードの利用の一時停止または利用可能枠の変更等の措置を取る場合。</div>
+<div class=moku id="rule_765">⑬&emsp;貸金業法およびその他の法令の定めにより、当社がカードキャッシングを停止する義務を負う場合。</div>
+<div class=moku id="rule_766">⑭&emsp;会員の信用状態が著しく悪化したまたは悪化のおそれがあると当社が判断した場合。</div>
+<div class=moku id="rule_767">⑮&emsp;現金化を目的とした商品・サービスの購入の疑い等、会員のカードの利用状況が適当でないまたは不審であると当社が判断した場合。</div>
+<div class=moku id="rule_768">⑯&emsp;第21条（1）各号のいずれかに該当し、もしくは同条（2）の各号のいずれかに該当し、または、同条（1）の規定に基づく表明、確約に関して虚偽の申告をしたことが判明した場合。</div>
+<div class=moku id="rule_769">⑰&emsp;会員が死亡した場合、または会員の親族等から会員が死亡した旨の申出があった場合。</div>
+<div class=moku id="rule_770">⑱&emsp;当社に対して暴力的な行為、脅迫的な言動、不当な要求をし、または当社の信用を毀損し、もしくは当社の業務を妨害する等の行為があった場合。</div>
+<div class=moku id="rule_771">⑲&emsp;会員が、自らまたは第三者を利用して、当社の従業員または当社の委託先もしくは派遣元等の従業員に対して、以下に定めるいずれかに該当する行為その他当該従業員の安全や精神衛生等を害するおそれのある行為をした場合。</div>
+<div class=moku-text id="rule_772">㋑暴力、威嚇、脅迫、強要等。</div>
+<div class=moku-text id="rule_773">㋺暴言、性的な言動、誹謗中傷、ストーカー行為その他人格を攻撃する言動。</div>
+<div class=moku-text id="rule_774">㋩人種、民族、門地、職業その他の事項に関する差別的言動。</div>
+<div class=moku-text id="rule_775">㋥長時間にわたる拘束、執拗な問い合わせ。</div>
+<div class=moku-text id="rule_776">㋭金品の要求、特別対応の要求、実現不可能な要求、その他内容もしくは態様が社会通念に照らして著しく不相当と認められる要求等。</div>
+<div class=moku id="rule_777">⑳&emsp;第8条に違反されたことにより、当社から会員への連絡が不可能と判断した場合。</div>
+<div class=moku id="rule_778">㉑&emsp;会員が出入国管理および難民認定法に基づく在留資格を有する外国人の場合で、その在留資格を喪失した場合（会員が当社に申告した在留期間その他の情報からすれば在留資格を喪失したと認められる場合で、会員が当社の求めにもかかわらず在留期間の更新その他の変更の届出を行わないときを含みます。）。</div>
+<div class=moku id="rule_779">㉒&emsp;会員が、当社から2枚以上のカード等の貸与を受けている場合で、他のカードについて前各号の事項のいずれかに該当した場合。</div>
+<div class=moku id="rule_780">㉓&emsp;その他以下に定めるいずれかに該当し、またはそのおそれがあると当社が判断した場合。</div>
+<div class=moku-text id="rule_781">㋑当社が把握する会員の年収情報や、職業、年齢等の属性情報等から想定される利用金額または利用頻度を著しく超える利用金額または利用頻度でなされたカードの利用。</div>
+<div class=moku-text id="rule_782">㋺カードの利用頻度、利用後の取引の状況その他の客観的事情に照らし、ポイントその他の付帯サービスにかかる利益を得ることを主たる目的とするカードの利用。</div>
+<div class=moku-text id="rule_783">㋩その他カードの利用先、購入商品、サービスの内容、利用金額、利用間隔、過去の利用内容、利用場所等に照らし、不正、不適切または不相当なカードの利用（第三者による場合も含みます。）</div>
+<div class=moku id="rule_784">㉔&emsp;その他会員資格を継続させることが不適当であると当社が判断した場合。</div>
+<div class=rui id="rule_785">（２）前項の場合、当社は、加盟店に当該カードの無効を通知することがあり、加盟店または現金自動預払機等（以下「ATM」といいます。）を通じてカードの回収を行うことができるものとします。加盟店からカード回収の要請があった場合は、会員は異議なくこれに応じるものとします。また、当社がカードの返却を求めたときは、会員は直ちに当社の指定する方法により、カードを返却するものとします。なお、当社が当該カードの回収に要した一切の費用は、会員に負担していただきます。</div>
+<div class=rui id="rule_786">（３）会員は、会員の都合で退会する場合、当社宛に所定の届出を行った後、貸与されたカードを返却または使用不能の状態にして破棄するものとします。この場合、当社に対する債務の全額を支払ったときに退会したものとします。</div>
+<div class=rui id="rule_787">（４）会員は、会員資格喪失後においても、支払うべき債務がある場合、本規約の効力が維持され、これに基づいて当該債務を支払うものとします。</div>
+<div class=rui id="rule_788">（５）会員は、会員資格喪失後においても、当社が請求した場合は、カード盗難保険の申請手続きなど当社が依頼する事項について、これに応じる義務を負うものとします。</div>
+<div class=rui id="rule_789">（６）カードの有効期限前に会員が退会した場合または会員資格が取り消された場合、会員は、その時点で当社に対する会員資格に基づく権利を喪失するものとします。</div>
+<div class=jou id="rule_790"><span class="fw-bold">第24条&emsp;（カードの紛失・盗難等の場合の責任と損害のてん補）</span></div>
+<div class=rui id="rule_791">（１）会員は、カードまたはカード情報を紛失し、または盗難、漏えい等にあった場合（以下｢紛失・盗難等｣といいます。）は、すみやかにその旨を当社へ連絡し、カードの紛失・盗難の場合には最寄りの警察署または交番に届け出るとともに、当社へも警察署・交番への届出内容を連絡するものとします。会員またはカード拾得者等より紛失、盗難、拾得の届出を受けた場合、当社にて会員の同意なくカード利用を停止する場合があります。</div>
+<div class=rui id="rule_792">（２）紛失・盗難等により、カードまたはカード情報が第三者に不正に使用された場合の損害は、会員の負担となります。ただし当社は、会員が所定の手続きを取った場合、次のいずれかに該当する場合を除いて、この不正使用により受ける損害をてん補します。</div>
+<div class=moku id="rule_793">①&emsp;会員の故意または重大な過失に起因する場合。</div>
+<div class=moku id="rule_794">②&emsp;会員の家族、同居人、留守人または代理人など、会員の関係者による使用に起因する場合。</div>
+<div class=moku id="rule_795">③&emsp;本規約に違反している状態において、紛失・盗難等が生じた場合。</div>
+<div class=moku id="rule_796">④&emsp;カードにカードの署名欄がある場合であって、当該欄に自己の署名がない状態で損害が発生したとき。</div>
+<div class=moku id="rule_797">⑤&emsp;暗証番号または本人確認（本人認証サービス等）で用いられるIDおよびパスワード等が使用された場合（当社に責めがある場合は除きます。）。</div>
+<div class=moku id="rule_798">⑥&emsp;戦争、地震など著しい社会秩序の混乱に乗じてなされた不正使用等の場合。</div>
+<div class=moku id="rule_799">⑦&emsp;前項に基づく紛失・盗難等の当社への連絡を当社が受けた日より61日以前に生じた損害である場合。</div>
+<div class=moku id="rule_800">⑧&emsp;紛失・盗難等または被害状況の届出が虚偽であった場合。</div>
+<div class=moku id="rule_801">⑨&emsp;会員が、当社の請求する書類を提出しなかったり、提出した書類に不実の表示をした場合、または当社の被害調査に協力をしない場合。</div>
+<div class=moku id="rule_802">⑩&emsp;その他会員が当社の指示に従わなかった場合。</div>
+<div class=rui id="rule_803">（３）カードの偽造によりカードが第三者に不正に使用された場合、会員は、偽造されたカードの使用にかかわるカード利用代金の支払いの責を負わないものとします。この場合、会員は、被害状況等の調査に協力するものとします。ただし、会員に故意または過失があるときは、会員は、偽造されたカードの利用代金について、支払いの責を負うものとします。</div>
+<div class=jou id="rule_804"><span class="fw-bold">第25条&emsp;（カードの再発行および差替え）</span></div>
+<div class=rui id="rule_805">（１）紛失・盗難等、破損、汚損、滅失または会員の責によるカード未受領等による無効、暗証番号変更等によりカードが利用できなくなり、当社が認めた場合はカードを再発行します。この場合、会員は、所定の再発行手数料を支払うものとします。</div>
+<div class=rui id="rule_806">（２）カードまたはカード情報の管理等において、不正使用等を回避するために当社が必要と認めた場合には、会員は、カードの差替えに応じることを承諾します。また、カードの差替えに応じなかった場合、その後の不正使用により発生した利用代金についても会員が支払いの責を負うものとします。</div>
+<div class=jou id="rule_807"><span class="fw-bold">第26条&emsp;（会員の再審査）</span></div>
+<div class=rui id="rule_808">（１）当社は、会員に対して入会後定期、不定期の再審査を行うことがあります。当社が再審査を行うに際して、会員は、当社から請求があれば当社の求める資料などの提出に応じるものとします。</div>
+<div class=rui id="rule_809">（２）当社は、会員に対してカードの利用状況または信用状態により入会後に再審査を行うことがあります。当社は、再審査の結果に応じて、会員資格の取消、カードの利用の一時停止もしくは利用可能枠の変更等を行う場合または第2条（7）に定めるカードの更新もしくは前条に定めるカードの再発行を行わない場合があります。</div>
+<div class=jou id="rule_810"><span class="fw-bold">第27条&emsp;（費用等の負担）</span></div>
+<div class=rui id="rule_811">（１）会員は、振込手数料、収納手数料（コンビニエンスストアでのお支払いの場合）、ATMでカードキャッシングを利用した場合に法令の範囲内で当社が別途定めるATMの利用手数料（以下「ATM手数料」といいます。）およびその他の当社に対するカード利用による支払金等のお支払いに要する費用を支払うものとします。</div>
+<div class=rui id="rule_812">（２）会員は、会員の都合により次の手続きを行った場合は、当社所定の費用を支払うものとします。</div>
+<div class=moku id="rule_813">①&emsp;カードの再発行。</div>
+<div class=moku id="rule_814">②&emsp;会員への振込用紙の送付。</div>
+<div class=moku id="rule_815">③&emsp;会員への当社所定の振込先案内書の送付。</div>
+<div class=moku id="rule_816">④&emsp;明細書の再発行。</div>
+<div class=moku id="rule_817">⑤&emsp;法令の規定に基づき交付した書面の再交付。</div>
+<div class=rui id="rule_818">（３）会員は、当社が負担する未払債務弁済の受領に要する費用（システム処理手数料、郵送料、再振替手数料等）を当社に対して支払うものとします。ただし、会員のお支払状況を踏まえ、当社が認める場合は当該手数料を請求しないことがあります。</div>
+<div class=rui id="rule_819">（４）カードの利用または本規約に基づく費用・手数料に関して課される公租公課（消費税等を含みます。）または印紙代・公正証書作成費用等債権保全・実行のために要した費用は、退会後といえども会員の負担とします。なお、公租公課が変更される場合、会員は、当該増額分を負担するものとします。</div>
+<div class=jou id="rule_820"><span class="fw-bold">第28条&emsp;（準拠法、合意管轄裁判所、公正証書）</span></div>
+<div class=rui id="rule_821">（１）会員と当社との諸契約に関する準拠法は、すべて日本法によるものとします。</div>
+<div class=rui id="rule_822">（２）会員は、会員と当社との間で、万一訴訟の必要が生じた場合は、会員の住所地または当社の本社、支店、営業所もしくはセンター所在地を管轄する簡易裁判所または地方裁判所を合意管轄裁判所とすることに同意します。</div>
+<div class=rui id="rule_823">（３）会員は、当社が必要と認めた場合、会員の費用負担で会員の支払債務につき、強制執行認諾文言を付した公正証書の作成に応じ、必要書類を当社に提出することを承諾します。</div>
+<div class=jou id="rule_824"><span class="fw-bold">第29条&emsp;（反社会的勢力の排除）</span></div>
+<div class=rui id="rule_825">（１）会員（本条においては申込者を含みます。）は、現在、次の各号のいずれにも該当しないことを表明し、かつ、将来にわたっても該当しないことを確約するものとします。</div>
+<div class=moku id="rule_826">①&emsp;暴力団</div>
+<div class=moku id="rule_827">②&emsp;暴力団員および暴力団員でなくなった時から5年を経過しない者</div>
+<div class=moku id="rule_828">③&emsp;暴力団準構成員</div>
+<div class=moku id="rule_829">④&emsp;暴力団関係企業</div>
+<div class=moku id="rule_830">⑤&emsp;総会屋等、社会運動等標ぼうゴロ、特殊知能暴力集団等またはテロリスト等、日本政府、外国政府、国際機関等が経済制裁の対象として指定する者</div>
+<div class=moku id="rule_831">⑥&emsp;前各号の共生者</div>
+<div class=moku id="rule_832">⑦&emsp;その他前各号に準ずる者</div>
+<div class=rui id="rule_833">（２）会員は、自らまたは第三者を利用して、次の各号に該当する事項を行わないことを確約するものとします。</div>
+<div class=moku id="rule_834">①&emsp;暴力的な要求行為</div>
+<div class=moku id="rule_835">②&emsp;法的な責任を超えた不当な要求行為</div>
+<div class=moku id="rule_836">③&emsp;取引に関して、脅迫的な言動をし、または詐術、暴力を用いる行為</div>
+<div class=moku id="rule_837">④&emsp;風説を流布し、偽計を用い、または威力を用いて当社の信用を毀損し、または当社の業務を妨害する行為</div>
+<div class=moku id="rule_838">⑤&emsp;その他前各号に準ずる行為</div>
+<div class=rui id="rule_839">（３）会員が前2項に定める事項に反すると具体的に疑われる場合には、当社は、会員に対し、当該事項に関する調査を行い、また、必要に応じて資料の提出を求めることができ、会員は、これに応じるものとします。</div>
+<div class=rui id="rule_840">（４）当社は、会員が（1）または（2）の規定に違反している疑いがあると認めた場合には、会員によるカードの入会申込を謝絶、または本規約に基づくカードの利用を一時的に停止することができるものとします。カードの利用を一時停止した場合には、会員は、当社が利用再開を認めるまでの間、カード利用を行うことができないものとします。</div>
+<div class=rui id="rule_841">（５）会員が、（1）または（2）のいずれかに該当した場合、（1）もしくは（2）の規定に基づく確約に関して虚偽の申告をしたことが判明した場合、または（3）の調査等に応じない場合や虚偽の回答をした場合のいずれかであって、当社との契約を継続することが不適切であると当社が認めるときには、当社は、直ちに本契約を解除できるものとします。この場合、会員は、当社の通知または請求により期限の利益を失うとともに会員資格を喪失し、当社に対する一切の未払債務を直ちに支払うものとします。</div>
+<div class=rui id="rule_842">（６）（5）の規定の適用により、当社に損失、損害または費用（以下「損害等」といいます。）が生じた場合には、会員は、これを賠償する責任を負うものとします。また、（5）の規定の適用により、会員に損害等が生じた場合にも、会員は、当該損害等について当社に請求をしないものとします。</div>
+<div class=rui id="rule_843">（７）（5）の規定に基づき本契約が解除された場合でも、当社に対する未払債務があるときは、それが完済されるまでは本規約の関連条項が適用されるものとします。</div>
+<div class=jou id="rule_844" style=""><span class="fw-bold">第30条&emsp;（外国為替および外国貿易に関する諸法令等の適用）</span></div>
+<div class=jou-text id="rule_845">会員は、日本国外でカードを利用する場合、外国為替および外国貿易に関する諸法令等に従うものとします。また、会員は、許可証、証明書その他の書類が必要な場合、当社の要求に応じてこれらを提出するものとし、当社が国外でのカードの利用の制限あるいは停止することを承諾します。</div>
+<div class=jou id="rule_846"><span class="fw-bold">第31条&emsp;（規約の改定）</span></div>
+<div class=rui id="rule_847">（１）当社は、本規約を改定する場合は、変更後の内容および効力発生時期を当社のホームページにおいて公表または、その他相当な方法で会員に周知したうえで、本規約を変更することができるものとします。</div>
+<div class=rui id="rule_848">（２）当社は、前項に基づくほか、あらかじめ変更後の内容を当社のホームページにおける公表その他相当な方法で会員に周知したうえで、本規約を変更することができるものとします。この場合、会員は、当該周知の後に会員が本規約にかかる取引を行うことにより、変更後の内容に対する承諾の意思表示を行うものとし、当該意思表示をもって本規約が変更されるものとします。</div>
+<div class=rui id="rule_849">（３）前2項に基づく規約の改定に異議がある会員は、当社に対して退会の申出を行うことができ、当社は、この申出を承諾します。</div>
+<div  id="rule_850" style="" align=""><span class="fw-bold">【カードショッピング条項】</span></div>
+<div class=jou id="rule_851"><span class="fw-bold">第32条&emsp;（カードショッピングの利用）</span></div>
+<div class=rui id="rule_852" style="">（１）会員は、当社と契約する加盟店、Mastercardに加盟した日本国内外の金融機関等と契約した加盟店およびその提携するカード会社が契約する加盟店、Visa Internationalに加盟する金融機関等と契約した加盟店、もしくはJCBおよびJCBの提携会社と契約した加盟店においてカードを提示し、ショッピング利用代金の金額等を確認のうえ、所定の端末に暗証番号を入力すること等の所定の手続きを行うこと、または会員自身が所定の売上票（電磁的に作成されたものを含みます。以下同じ。）にカードと同一の署名をすること等により、商品・権利の購入、サービスの提供の受領にかかわる取引をすることができます。なお、当社が特に認めた場合には、カードの提示もしくは売上票への署名を省略することができます。</div>
+<div class=rui id="rule_853">（２）会員は、郵便・ファクシミリ・電話等により、当社があらかじめ承認している加盟店との間で取引を行う場合は、前項にかかわらず、カード情報または住所等を取引の申込書面に記入のうえ、加盟店に送付していただくか、もしくは電話で加盟店に対して前記事項を告知していただくことにより、商品・権利の購入、サービスの提供の受領にかかわる取引の代金をカードで支払うことができます。</div>
+<div class=rui id="rule_854">（３）会員は、インターネット等を利用した通信（以下「オンライン」といいます。）により、当社があらかじめ承認している加盟店との間で取引を行う場合は、（1）にかかわらず、会員の氏名、カード番号、カード有効期限、住所、暗証番号等をオンラインで加盟店に送信することにより、商品・権利の購入、サービスの提供の受領にかかわる取引の代金を、カードで支払うことができます。当社は、当社所定の認証措置を講じる場合があり、この場合、会員は、パスコードの申告その他の当該認証措置への対応を行います。</div>
+<div class=rui id="rule_855">（４）会員が、入会申込時または入会後、当社所定の方法により携帯電話番号その他当社所定の情報を当社に届け出た場合、前項に定める本人認証手続に必要な情報（以下本条において「本件情報」といいます。）として利用することに同意するものとします。</div>
+<div class=rui id="rule_856">（５）会員は、厳重に本件情報およびワンタイムパスワード等を管理するものとし、本件情報に変更が生じた場合には、すみやかに当社所定の方法により届け出るものとします。</div>
+<div class=rui id="rule_857">（６）カード利用の際、本件情報またはワンタイムパスワード等が使用されたときは、本件情報またはパスワード等について盗用その他事故があっても、そのために生じる一切の債務について会員が支払の責めを負うものとします。ただし、本件情報およびパスワード等の管理について会員に故意または過失がないと当社が認めた場合にはこの限りではありません。</div>
+<div class=rui id="rule_858">（７）当社または加盟店が特に定める商品については、カードの利用が制限され、または利用できない場合があります。また、カードの利用に際して、現金価格、商品・権利・サービスの種類によっては、当社の承認が必要となることがあり、この場合、加盟店が当社に対してカードの利用に関する確認をします。確認の内容によっては、当社は、カードの利用をお断りすることがあります。</div>
+<div class=rui id="rule_859">（８）会員は、次のいずれかの行為のためにカードを利用してはならないものとします。</div>
+<div class=moku id="rule_860">①&emsp;クレジットカードご利用可能枠の現金化を目的とする商品もしくは権利の購入またはサービスの利用もしくは受領。</div>
+<div class=moku id="rule_861">②&emsp;法定通貨として定められ流通している紙幣または貨幣の購入。</div>
+<div class=moku id="rule_862">③&emsp;資金調達または転売事業を目的とする商品もしくは権利の購入またはサービスの利用もしくは受領。</div>
+<div class=moku id="rule_863">④&emsp;現金またはこれに類する経済的な利益を受けるため、加盟店または第三者との間で、商品または権利の買戻しまたは譲渡を約束すること。</div>
+<div class=moku id="rule_864">⑤&emsp;法令に違反する事業者がする取引（無許可・無登録事業者が行う取引を含みます。）につき法令に違反することを知りながらする取引。</div>
+<div class=moku id="rule_865">⑥&emsp;法令により禁止される商品もしくは権利の購入またはサービスの利用もしくは受領その他公序良俗または法令に違反する取引。</div>
+<div class=moku id="rule_866">⑦&emsp;その他実質的に上記各号と類似すると当社が判断するもの</div>
+<div class=jou id="rule_867"><span class="fw-bold">第33条&emsp;（継続的サービス事業等に関する代金のお支払い）</span></div>
+<div class=rui id="rule_868">（１）会員は、電話、インターネット接続、保険、電気、ガスまたは水道等（以下「継続的サービス事業」といいます。）の利用代金のお支払いをカードにより継続的に行う場合、当社が会員のために当該継続的サービス事業提供会社に対して支払うことを了承し、第10条により当社へお支払いいただきます。</div>
+<div class=rui id="rule_869">（２）会員は、カードの更新やカード種別の変更等により会員番号・有効期限等が変更されたとき、もしくは会員資格の取消し、退会等によりカードが無効になったときは、その旨を当該継続的サービス事業提供会社に通知のうえ変更手続きを行うものとします。ただし、当社が必要と認めたときには、当社が会員に代わって当該継続的サービス事業提供会社に対し会員番号・有効期限等の変更情報および無効情報等を通知する場合があることを、会員は承諾するものとします。</div>
+<div class=rui id="rule_870">（３）会員は、カードによる継続的なお支払いを中止する場合は、カード解約の有無にかかわらず継続的サービス事業提供会社の定めた方法によりその旨を申し出て承諾を得ていただきます。</div>
+<div class=rui id="rule_871">（４）当社は、第15条によりカードが失効した場合または第10条による当社へのお支払いがなされない場合には、継続的サービス事業提供会社に対する利用代金のお支払いを中止することがあります。この場合に当該契約が解約となっても、当社は責任を負いません。なお、会員は、契約の継続を希望する場合、直接継続的サービス事業提供会社との間で手続きを行うものとします。</div>
+<div class=rui id="rule_872">（５）会員は、本規約の条項のほか、継続的サービス事業提供会社が定める規約等の諸条項を守ることを承諾していただきます。</div>
+<div class=rui id="rule_873">（６）上記（1）から（4）の各規定は、会員が、各種税金、社会保険料等の公金のお支払いをカードにより行う場合に準用します。</div>
+<div class=jou id="rule_874"><span class="fw-bold">第34条&emsp;（所有権の留保）</span></div>
+<div class=jou-text id="rule_875">会員は、カードにより購入した商品の所有権が当該商品にかかるお支払いが完了するまで当社に留保されることを承諾するものとします。</div>
+<div class=jou id="rule_876"><span class="fw-bold">第35条&emsp;（カードショッピングの支払方法）</span></div>
+<div class=rui id="rule_877">（１）会員は、カードの利用の都度、その支払方法につき、リボルビング払い・分割払い（ボーナス併用払いを含みます。）・1回払い・ボーナス一括払い・ボーナス2回払いのいずれかを選択することができます。ただし、加盟店によっては支払方法が制限されることがあります。なお、ボーナス一括払いおよびボーナス2回払いの支払月は、夏期は6月、7月、8月、9月、冬期は12月、1月のうちから、加盟店が指定した月とします。またボーナス一括払いおよびボーナス2回払いの取扱期間は、支払月に応じ、加盟店所定の期間に限らせていただきます。</div>
+<div class=rui id="rule_878">（２）①会員は、リボルビング払いを指定した場合は、毎月月末を締切日とし、明細書作成時点における未決済残高（以下「締切日残高」といいます。）を基礎として、別表に記載しているコースにより定める金額（以下「弁済金」といいます。）をお支払いいただきます。</div>
+<div class=rui-text id="rule_879">●カードショッピングリボルビング払い弁済金算出表</div>
+<div class=table id="rule_880"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td colspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>カードショッピング（シルバーコース）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>締切日残高</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>弁済金（月々の支払額）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1円〜100,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>100,001円〜150,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>4,500円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>150,001円〜200,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>200,001円〜250,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>7,500円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>250,001円〜300,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>9,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>300,001円〜350,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>350,001円〜400,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>12,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>400,001円〜500,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>500,001円以上は、</p><p>100,000円増すごとに</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3,000円ずつ加算</p></td></tr></tbody></table></div>
+<div class=table id="rule_881"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td colspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>カードショッピング（ホワイトコース）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>締切日残高</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>弁済金（月々の支払額）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1円〜100,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>100,001円〜150,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>150,001円〜200,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>200,001円〜250,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>250,001円〜500,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>500,001円以上は、</p><p>100,000円増すごとに</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3,000円ずつ加算</p></td></tr></tbody></table></div>
+<div class=rui-text id="rule_882">注1：シルバーコースは2011年3月23日以降にお申込みされた会員が対象となります。2011年3月22日以前にお申込みされた会員については、ホワイトコースが適用されます。なお、別途会員が他コースを指定し当社が認めた場合は、当社が認めた当該コースの適用となります。</div>
+<div class=rui-text id="rule_883">注2：弁済金が上記の算出表の該当弁済金の額に満たない場合には、全額となります。</div>
+<div class=rui-text id="rule_884">注3：初回手数料が弁済金を上回る場合、初回弁済金は、初回手数料の額とします。</div>
+<div class=moku id="rule_885">①&emsp;リボルビング払いの手数料は、ご利用月の翌月1日より支払日迄の1年を365日とする日割計算とします。リボルビング払いの弁済金の具体的算定例は次のとおりとなります。</div>
+<div class=moku-text id="rule_886">＜弁済金の具体的算定例＞</div>
+<div class=moku-text id="rule_887">シルバーコースの場合で、7月10日100,000円（実質年率17.95％）利用し、その後利用がなく7月末時点の締切日残高が100,000円の場合</div>
+<div class=moku-text id="rule_888">初回お支払い（9月1日）の約定支払日の弁済金内訳</div>
+<div class=moku-text id="rule_889">毎月の弁済金 ：3,000円（別表による）</div>
+<div class=moku-text id="rule_890">手数料充当分 ：100,000円×32日×17.95％÷365日=1,573円</div>
+<div class=moku-text id="rule_891">元本充当分 ：3,000円−1,573円=1,427円</div>
+<div class=moku-text id="rule_892">2回目以降のお支払い（10月1日）の約定支払日の弁済金内訳</div>
+<div class=moku-text id="rule_893">毎月の弁済金 ：3,000円（別表による）</div>
+<div class=moku-text id="rule_894">手数料充当分 ：98,573円×30日×17.95％÷365日=1,454円</div>
+<div class=moku-text id="rule_895">元本充当分 ：3,000円−1,454円=1,546円</div>
+<div class=moku-text id="rule_896">ホワイトコースの場合で、7月10日100,000円（実質年率17.95％）利用し、その後利用がなく7月末時点の締切日残高が100,000円の場合</div>
+<div class=moku-text id="rule_897">初回お支払い（9月1日）の約定支払日の弁済金内訳</div>
+<div class=moku-text id="rule_898">毎月の弁済金 ：5,000円（別表による）</div>
+<div class=moku-text id="rule_899">手数料充当分 ：100,000円×32日×17.95%÷365日=1,573円</div>
+<div class=moku-text id="rule_900">元本充当分 ：5,000円−1,573円=3,427円</div>
+<div class=moku-text id="rule_901">2回目以降のお支払い（10月1日）の約定支払日の弁済金内訳</div>
+<div class=moku-text id="rule_902">毎月の弁済金 ：5,000円（別表による）</div>
+<div class=moku-text id="rule_903">手数料充当分 ：96,573円×30日×17.95％÷365日=1,424円</div>
+<div class=moku-text id="rule_904">元本充当分 ：5,000円−1,424円=3,576円</div>
+<div class=moku id="rule_905">②&emsp;会員は、当社が定める手続きを取り、かつ当社が認めた場合、リボルビング払いにかかる債務の全部を返済、または弁済額の増額を行うことができるものとします。</div>
+<div class=moku id="rule_906">③&emsp;本項①の弁済金には、毎月の締切日残高に対する所定の手数料を含みます。なお、会員は、支払日前に弁済金を支払った場合でもその手数料をお支払いいただきます。</div>
+<div class=rui id="rule_907">（３）①会員は、分割払いを指定した場合は、現金価格に現金価格100円当たりの手数料を加算した額（以下「支払総額」といいます。）を支払い、月々の支払分（以下「分割支払金」といいます。）は支払総額を支払回数で除した金額となります。ただし、月々の分割支払金の単位は100円とし端数が生じた場合は、初回に算入いたします。なお、ボーナス併用払いのボーナス加算月の支払額は、当社所定の計算方法で加算した額を月々の分割支払金に算入するものとします。また、月々の支払回数は、会員がカード利用の都度指定するものとします。</div>
+<div class=moku id="rule_908">①&emsp;分割払いの支払回数、支払期間および分割払手数料の料率は別途定める特約のとおりとします。分割払いの支払回数は、会員がカードを利用する加盟店により、支払回数に制限のある場合があります。</div>
+<div class=rui id="rule_909">（４）会員は、1回払いまたはボーナス一括払いを指定した場合は、利用代金を支払月に一括してお支払いいただきます。なお、この場合、手数料はかかりません。例えば、現金価格10万円（税込）の場合、手数料不要ですので、支払月に10万円をお支払いいただくこととなります。</div>
+<div class=rui id="rule_910">（５）会員は、ボーナス2回払いを指定した場合は、現金価格と手数料の合計額を夏期1回、冬期1回の計2回に分けてお支払いいただきます。この場合の手数料は、現金価格100円当たりの手数料3円を乗じた額とします。端数が発生する場合には、初回の支払月に算入しお支払いいただきます。</div>
+<div class=rui id="rule_911">（６）会員は、以下の方式で、利用代金の支払区分をリボルビング払いに指定することができます。</div>
+<div class=moku id="rule_912">①&emsp;会員が申し出て、当社が認めた場合、国内・海外の加盟店での利用代金のお支払いをすべてリボルビング払いとする方式。</div>
+<div class=moku id="rule_913">②&emsp;当社が別途定める期日までに会員が申し出て、当社が認めた場合、ご利用代金をリボルビング払いに変更する方式。この場合、新たにリボルビング方式でお支払いいただく弁済金は、締切日残高および変更したご利用代金の合計額を基礎として計算します。また、その手数料もその合計額に基づき計算します。</div>
+<div class=jou id="rule_914"><span class="fw-bold">第36条&emsp;（早期完済の場合の特約および繰上返済の取扱い）</span></div>
+<div class=rui id="rule_915">（１）会員が、分割払いの指定をした場合において、その分割支払金のお支払いを約定どおり履行し、かつその支払期間の中途で残額を一括して支払った場合は、会員は、当社所定の計算方法により算出された期限未到来の分割払手数料のうち当社所定の金額の払戻しを当社に請求できるものとします。ただし、一括弁済日が第10条所定の支払日以外の日に一括して支払う場合であっても、翌月の支払日の前日までの手数料を受領したものとして扱います。</div>
+<div class=rui id="rule_916">（２）会員が、リボルビング払いの指定をした場合において、会員は、当社が定める手続きを取り当社が認めた場合、約定支払期間の中途で弁済金の全額または一部の繰上返済を行うことができるものとします。</div>
+<div class=rui id="rule_917">（３）前項の場合、会員が指定することができる返済の範囲および返済方法は下表のとおりです。</div>
+<div class=table id="rule_918"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>返済範囲</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>返済方法</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>全額</p></td><td rowspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>口座振替または当社指定の口座へのお振込み</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>一部</p></td></tr></tbody></table></div>
+<div class=jou id="rule_919" style=""><span class="fw-bold">第37条&emsp;（見本・カタログ等と現物の相違等）</span></div>
+<div class=jou-text id="rule_920">会員が見本・カタログ等により申込みをした場合において、引渡された商品・権利または提供されたサービスが見本・カタログ等と相違している場合は、会員は加盟店に商品・権利の交換またはサービスの再提供を申し出るか、または当該売買契約もしくはサービス提供契約の解除をすることができます。なお、当該売買契約・サービス提供契約を解除したときは、すみやかに当社に対し、その旨を通知するものとします。</div>
+<div class=jou id="rule_921"><span class="fw-bold">第38条&emsp;（支払停止の抗弁）</span></div>
+<div class=rui id="rule_922">（１）会員は、1回払い（ボーナス一括払いを除きます。）を除くお支払いの場合に、次の事由があるときは、その事由が解消されるまでの間、その商品・権利またはサービスについて、お支払いを停止することができます。</div>
+<div class=moku id="rule_923">①&emsp;商品の引渡し、権利の引渡しまたはサービスの提供がないこと。</div>
+<div class=moku id="rule_924">②&emsp;商品に破損、汚損、故障、その他の種類または品質に関して契約の内容に適合しない場合があること。</div>
+<div class=moku id="rule_925">③&emsp;その他商品・権利の販売やサービスの提供等について、加盟店に対して生じている事由があること。</div>
+<div class=rui id="rule_926">（２）当社は、会員が前項の支払停止を行う旨を当社に申し出た場合は、直ちに所定の手続きをいたします。</div>
+<div class=rui id="rule_927">（３）会員は、前項の申出をした場合は、あらかじめ（1）の事由の解消のため加盟店と交渉に努めていただきます。</div>
+<div class=rui id="rule_928">（４）会員は、（2）の申出をした場合は、すみやかにその該当事由を記載した書面（資料がある場合には資料を添付します。）を当社に提出するよう努めるものとします。また、当社が（1）の事由について調査する必要がある場合には、会員はその調査に協力するものとします。</div>
+<div class=rui id="rule_929">（５）（1）の規定にかかわらず次のいずれかに該当する場合は、お支払いを停止することができないものとします。</div>
+<div class=moku id="rule_930">①&emsp;商品もしくは指定権利を販売する契約または役務を提供する契約であって、会員にとって営業のためにもしくは営業として行う場合（連鎖販売個人契約および業務提供誘引販売個人契約にかかるものを除きます。）。</div>
+<div class=moku id="rule_931">②&emsp;会員の指定した支払回数が1回の場合（ボーナス一括払いを除きます。）。</div>
+<div class=moku id="rule_932">③&emsp;1回払い（ボーナス一括払いを除きます。）を除くお支払いの場合で、1回のカード利用にかかわる支払総額が4万円に満たない場合、またはリボルビング払いの場合で1回のカード利用にかかわる現金価格が3万8千円に満たない場合。</div>
+<div class=moku id="rule_933">④&emsp;割賦販売法に定める指定権利でない場合。</div>
+<div class=moku id="rule_934">⑤&emsp;日本国外でカードを利用した場合。</div>
+<div class=moku id="rule_935">⑥&emsp;当社の承諾なしに、売買契約の合意解除、加盟店に対する利用代金のお支払い、その他当社の債権を侵害する行為をした場合。</div>
+<div class=moku id="rule_936">⑦&emsp;会員によるお支払いの停止が信義に反すると認められる場合。</div>
+<div class=moku id="rule_937">⑧&emsp;（1）①から③の事由が会員の責に帰すべき場合。</div>
+<div class=rui id="rule_938">（６）会員は、当社が利用代金の残額から（1）による支払停止額に相当する額を控除して請求した場合は、控除後の利用代金のお支払いを継続していただきます。</div>
+<div class=jou id="rule_939"><span class="fw-bold">第39条&emsp;（遅延損害金）</span></div>
+<div class=rui id="rule_940">（１）会員がカードショッピングのお支払いを遅延した場合は、支払期日の翌日から支払日に至るまで、以下の年率（1年を365日とする日割計算、以下同じ。）を乗じた額の遅延損害金をお支払いいただきます。</div>
+<div class=moku id="rule_941">①&emsp;リボルビング払いおよび支払回数が1回（ボーナス一括払いを除きます。）の場合には、当該弁済金または支払金に対し年14.6％を乗じた額。</div>
+<div class=moku id="rule_942">②&emsp;前号以外のお支払いの場合には、当該分割支払金または支払金に対し法定利率を乗じた額。</div>
+<div class=rui id="rule_943">（２）会員が期限の利益を喪失した場合は、期限の利益喪失の日から完済の日に至るまで、以下の年率を乗じた額の遅延損害金をお支払いいただきます。</div>
+<div class=moku id="rule_944">①&emsp;前項①の取引については、当該取引の債務の残額に対し年14.6％を乗じた額。</div>
+<div class=moku id="rule_945" style="">②&emsp;前項②の取引については、当該分割支払金または支払金合計の残金全額に対し法定利率を乗じた額。</div>
+<div  id="rule_946" style="" align=""><span class="fw-bold">【カードキャッシング条項】</span></div>
+<div class=jou id="rule_947" style=""><span class="fw-bold">第40条&emsp;（カードキャッシングの利用および勧誘の承諾）</span></div>
+<div class=rui id="rule_948">（１）会員は、次のいずれかの方法により、当社からカードキャッシングを受けることができます。なお、日本国内でのカードキャッシングによる借入金（以下「借入金」といいます。）は1万円単位とし、日本国外での借入金は現地通貨単位とします。</div>
+<div class=moku id="rule_949">①&emsp;当社および当社の提携する金融機関等のATMを利用する方法。</div>
+<div class=moku id="rule_950">②&emsp;当社に対し電話または会員専用ネットサービスにより所定の申込手続きをする方法。</div>
+<div class=moku id="rule_951">③&emsp;Mastercard、Visa International、JCBと提携した日本国外の取扱金融機関等で所定の手続きをする方法。</div>
+<div class=moku id="rule_952">④&emsp;その他当社所定の方法。</div>
+<div class=rui id="rule_953">（２）会員が、ATMでカードキャッシングを利用した場合に、法令の範囲内で当社が別途定めるATM手数料を負担するものとします。ただし、当社が特に認めた場合はお支払いを免除することができるものとします。</div>
+<div class=rui id="rule_954">（３）会員は、当社が会員に対してキャッシングの利用（貸付の契約）にかかる勧誘を行うことを承諾します。</div>
+<div class=jou id="rule_955"><span class="fw-bold">第41条&emsp;（カードキャッシングの支払方法）</span></div>
+<div class=rui id="rule_956">（１）カードキャッシングの支払方法は一括払い（元利一括払い）またはリボルビング払い（残高スライド元利定額方式）のうち、会員が利用の際に指定した方法によるものとします。</div>
+<div class=rui id="rule_957">（２）会員は、以下の方式で、借入金の支払区分をリボルビング払いに指定することができます。</div>
+<div class=moku id="rule_958">①&emsp;会員が申し出て当社が認めた場合、カードキャッシングの借入金のお支払いをすべてリボルビング払いとする方式。</div>
+<div class=moku id="rule_959">②&emsp;当社所定の期日までに会員が申し出て、当社が認めた場合、一括払いをリボルビング払いに変更する方式。この場合、新たにリボルビング払いでお支払いいただく弁済金は、締切日残高および変更した一括払い分の合計額を基礎として計算します。また、その利息もその合計額に基づき計算します。</div>
+<div class=jou id="rule_960"><span class="fw-bold">第42条&emsp;（利息および支払金額）</span></div>
+<div class=rui id="rule_961">（１）利息は、返済方法に応じて、借入金に対しカード種別に基づいた実質年率を乗じて算出（1年を365日とする日割計算とします。）した金額とします。</div>
+<div class=rui id="rule_962">（２）リボルビング払いによるお支払いの場合、借入金の利率毎に管理を行い、これらを合算した締切日残高に応じ、別表記載のコースに定める弁済金をお支払いいただきます。なお、リボルビング払いの利息は、次の計算方法により算出します。</div>
+<div class=rui-text id="rule_963">《リボルビング払い・1回目のお支払い》</div>
+<div class=rui-text id="rule_964">利息＝締切日残高×ご利用日当日から初回支払日までの日数×実質年率÷365日</div>
+<div class=rui-text id="rule_965">《リボルビング払い・2回目以降のお支払い》</div>
+<div class=rui-text id="rule_966">利息＝締切日残高×前回支払日の翌日から今回支払日までの日数×実質年率÷365日</div>
+<div class=rui-text id="rule_967">●カードキャッシングリボルビング払い弁済金算出表</div>
+<div class=table id="rule_968"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td colspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>カードキャッシング（ホワイトコース）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>締切日残高</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>弁済金（月々の支払額）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1円〜100,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>5,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>100,001円〜150,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>6,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>150,001円〜200,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>8,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>200,001円〜250,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>10,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>250,001円〜500,000円</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>13,000円</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>500,001円以上は、</p><p>100,000円増すごとに</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>3,000円ずつ加算</p></td></tr></tbody></table></div>
+<div class=rui-text id="rule_969">注1：別途会員が他コースを指定し当社が認めた場合は、当社が認めた当該コースの適用となります。</div>
+<div class=rui-text id="rule_970">注2：弁済金が上記の算出表の該当弁済金の額に満たない場合には、全額となります。</div>
+<div class=rui-text id="rule_971">注3：新たなリボルビング払いでの利用がないときは、前回と同額の支払額となります。</div>
+<div class=rui-text id="rule_972">注4：初回の利息が上記算出表による弁済金を上回る場合、初回の弁済金は初回の利息の額とします。</div>
+<div class=rui id="rule_973">（３）一括払いの場合は、ご利用日当日から支払日までの日数の利息を借入金に加算して一括してお支払いいただきます。一括払いの利息は次の計算方法により算出します。</div>
+<div class=rui-text id="rule_974">《一括払いの利息》</div>
+<div class=rui-text id="rule_975">利息＝借入金×ご利用日当日から支払日までの日数×実質年率÷365日</div>
+<div class=jou id="rule_976" style=""><span class="fw-bold">第43条&emsp;（繰上返済等）</span></div>
+<div class=rui id="rule_977" style="">（１）会員は、当社が定める手続きを取り当社が認めた場合、約定支払期間の中途で借入金の全額または一部の繰上返済を行うことができるものとします。なお、支払日がカードキャッシングのご利用日当日の場合、会員は1日分の利息をお支払いいただきます。</div>
+<div class=rui id="rule_978" style="">（２）会員が指定することができる返済の範囲および返済方法は下表のとおりです。</div>
+<div class=table id="rule_979"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払方法</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>返済範囲</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>返済方法</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>一括払い（元利一括払い）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>全額のみ</p></td><td rowspan="3" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>口座振替または当社指定の口座への</p><p>お振込み</p></td></tr><tr><td rowspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>リボルビング払い</p><p>（残高スライド元利定額方式、元利定額方式）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>全額</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>一部</p></td></tr></tbody></table></div>
+<div class=jou id="rule_980"><span class="fw-bold">第44条&emsp;（遅延損害金）</span></div>
+<div class=jou-text id="rule_981">会員がカードキャッシングにかかわる債務のお支払いを遅延した場合は、カードキャッシングの未払残債務（元本分）に対し支払期日の翌日から支払日に至るまで、期限の利益を喪失した場合は、カードキャッシングの未払残債務（元本分）に対し支払期日の翌日から完済に至るまで、約定利息を含み年19.94％の割合（1年を365日とする日割計算とします。）による遅延損害金をお支払いいただきます。</div>
+<div class=jou id="rule_982"><span class="fw-bold">第45条&emsp;（収入証明書の提出）</span></div>
+<div class=jou-text id="rule_983">会員は、当社から源泉徴収票または所得証明書などの収入、または収益その他資力を明らかにする書面（以下「収入証明書」といいます。）の提出を求められることに関して、以下に定める事項を承諾します。</div>
+<div class=moku id="rule_984">①&emsp;会員は、収入証明書の提出を求められたときは、これに協力すること。</div>
+<div class=moku id="rule_985">②&emsp;当社が、会員が提出した収入証明書の内容の確認、および会員の支払能力の調査のために使用すること。</div>
+<div class=moku id="rule_986">③&emsp;当社は、提出された収入証明書を会員に返却できないこと。</div>
+<div class=moku id="rule_987">④&emsp;会員が、収入証明書の提出に協力しないとき、あるいは収入証明書の内容および支払能力の調査結果によっては、当社が、カードキャッシングの利用を停止させる場合があること、またはカードキャッシングの利用可能枠を減額する場合があること。</div>
+<div  id="rule_988" style="" align=""><span class="fw-bold">【付加機能に関する条項】</span></div>
+<div class=jou id="rule_989"><span class="fw-bold">第46条&emsp;（付加機能）</span></div>
+<div class=jou-text id="rule_990">当社は、カードショッピング、カードキャッシング以外の機能を付加することがあります。この場合、当社はその内容および関連する規約を公表または通知するものとし、会員は、上記の関連する規約に従い、付加された機能を利用します。会員は、当社の判断により、上記の内容および関連する規約が変更されることを承諾します。</div>
+<div class=jou id="rule_991"><span class="fw-bold">第47条&emsp;（付帯サービス）</span></div>
+<div class=jou-text id="rule_992">当社は、カード利用に付帯するサービスまたは特典を付与することがあります。この場合、当社はその内容および関連する規約を公表または通知するものとし、会員は、上記の関連する規約に従い、付帯サービスまたは特典を利用します。会員は、当社の判断により、上記の内容および関連する規約が変更されることを承諾します。</div>
+<div  id="rule_993" style="">&emsp;</div>
+<div class=fuki-title id="rule_994" style="">付則</div>
+<div  id="rule_995" style="" align=""><span class="fw-bold">第１条&emsp;（2017年2月24日以前に入会した会員の取扱い）</span></div>
+<div class=fuki-text id="rule_996" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）本付則は2017年2月24日以前に入会した会員に適用されます。</div>
+<div class=fuki-text id="rule_997" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）2017年2月24日以前に入会した会員は、カード利用に付帯するサービスとして、当社ホームページ上にあるカード会員専用のサイト（以下「ネットサービス」といいます。）の利用ができるものとします。</div>
+<div class=fuki-text id="rule_998" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（3）ネットサービスを利用するためには、別途定める会員専用ネットサービス規約第3条の手続きを経たうえで、IDおよびパスワードの取得を行い、本サービスを利用するものとします。</div>
+<div class=fuki-text id="rule_999" style="">＜お問い合わせ窓口＞</div>
+<div class=fuki-text id="rule_1000">●カードの特典やカード利用、または本規約に関してのお問い合わせ、ご相談および本規約第30条に定める支払停止の抗弁については当社お客さまセンターにご連絡ください。</div>
+<div class=fuki-text id="rule_1001">ポケットカード株式会社&emsp;お客さまセンター</div>
+<div class=fuki-text id="rule_1002">〒541−0048&emsp;大阪府大阪市中央区瓦町2−5−14</div>
+<div class=fuki-text id="rule_1003">電話番号：携帯電話から 0570−064−373</div>
+<div class=fuki-text id="rule_1004">携帯電話以外から 0120−12−9255</div>
+<div class=fuki-text id="rule_1005">●商品等についてのお問い合わせ、ご相談はカードを利用した加盟店にご連絡ください。</div>
+<div class=fuki-text id="rule_1006">＜カード発行会社＞</div>
+<div class=fuki-text id="rule_1007">ポケットカード株式会社</div>
+<div class=fuki-text id="rule_1008">〒105−0011&emsp;東京都港区芝公園1−1−1</div>
+<div class=fuki-text id="rule_1009">登録番号&emsp;関東財務局長 第01301号</div>
+<div class=fuki-text id="rule_1010">日本貸金業協会会員&emsp;第002134号</div>
+<div class=fuki-text id="rule_1011">ホームページアドレス：https://www.pocketcard.co.jp</div>
+<div class=fuki-text id="rule_1012">●当社が契約する貸金業務にかかる指定紛争解決機関は下記のとおりです。</div>
+<div class=fuki-text id="rule_1013">日本貸金業協会 貸金業相談・紛争解決センター</div>
+<div class=fuki-text id="rule_1014">〒108−0074&emsp;東京都港区高輪3−19−15</div>
+<div class=fuki-text id="rule_1015">電話番号：0570−051−051</div>
+<div class=fuki-text id="rule_1016">●ATM手数料</div>
+<div class=table id="rule_1017"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1回当たりのご利用金額</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>手数料</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1万円以下</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>110円（税込）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>1万円超&emsp;</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>220円（税込）</p></td></tr></tbody></table></div>
+<div class=fuki-text id="rule_1018">●日本クレジット協会が定める自主規制規則における標準用語毎の読み替えについて</div>
+<div class=fuki-text id="rule_1019">日本クレジット協会が定める自主規制規則における標準用語は、カード発行のご案内、会員規約、ご利用代金明細書等において次のとおり読み替えます。</div>
+<div class=table id="rule_1020"><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>日本クレジット協会が定める</p><p>自主規制規則における標準用語</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>読み替え後の用語</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>現金販売価格、現金提供価格</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>ご利用金額、ショッピングご利用金額</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>包括信用購入あっせんの手数料</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>ショッピングリボ払い・分割払い手数料、手数料</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>分割支払額、弁済金</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>ご請求金額、お支払金額</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払回数</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>支払区分</p></td></tr></tbody></table></div>
+<div class=fuki-text id="rule_1021" style="">●本規約に同意いただけない場合は、カードを半分に切ってその旨をお書き添えのうえ、当社までご返却ください。</div>
+<div  style="" id="rule_1260">&emsp;</div>
+<div  id="rule_1022" align="center" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;"><span class="fw-bold">個人情報の取扱いに関する同意条項</span></div>
+<div  id="rule_1023" style="" align=""><span class="fw-bold">第１条&emsp;（個人情報の収集・保有・利用）</span></div>
+<div class=rui id="rule_1024" style="" align="">（１）申込者および会員（以下「会員等」といいます。）ならびに会員等の配偶者（ただし、配偶者貸付を行う場合に限ります。以下同じ。）は、本契約（本申込みを含みます。以下同じ。）を含む当社との取引の与信判断および与信後の管理（債権回収を含みます。）のため、以下の情報（以下総称して「個人情報」といいます。）をポケットカード株式会社（以下「当社」といいます。）が保護措置を講じたうえで収集・保有・利用することに同意します。</div>
+<div class=moku id="rule_1025" style="" align="">①&emsp;会員等が所定の申込書に記載もしくは入力した、または申込時、あるいは、その後に提出した書面等に記載もしくは入力された会員等および会員等の配偶者の氏名、生年月日、性別、住所、電話番号、勤務先、勤務先電話番号、学校、電子メールアドレス（ショート・メッセージ・サービスの利用が可能な電話番号等も含みます。）、住居状況、家族構成および会員等が届け出た事項（これらの情報に変更が生じた場合、変更後の情報を含みます。以下同じ。）。</div>
+<div class=moku id="rule_1026" style="" align="">②&emsp;本契約に関する申込日、契約日、商品名、契約額、支払回数、振替口座、利用可能枠等。</div>
+<div class=moku id="rule_1027" style="" align="">③&emsp;本契約に関する支払開始後の利用残高、月々の返済状況、電話・電子メール・当社ホームページ上の会員専用ページ等により当社が知り得た情報等（音声記録等も含みます。）およびお届けいただいた電話番号の有効性に関する情報（当社が提携先から取得する当該電話番号に関する通話可能か否か、利用履歴その他の情報を含みます。）。</div>
+<div class=moku id="rule_1028" style="" align="">④&emsp;本契約に関する会員等および会員等の配偶者の支払能力・返済能力を調査するためまたは支払途上における支払能力・返済能力を調査するため、会員等および会員等の配偶者が申告（公的証明書類等に記載された情報の提示・提出を含みます。）を行った会員等および会員等の配偶者の資産、負債、収入、支出ならびに当社が収集したクレジット利用履歴および過去の債務の返済状況。</div>
+<div class=moku id="rule_1029" style="" align="">⑤&emsp;「犯罪による収益の移転防止に関する法律」（以下「犯罪収益移転防止法」といいます。）に基づく本人確認書類に記載された情報および取引を行う目的、国籍、在留資格、在留期間等、その他本契約に基づき届け出られた情報。</div>
+<div class=moku id="rule_1030" style="" align="">⑥&emsp;住民票等を取得した場合はその際に収集した情報。</div>
+<div class=moku id="rule_1031" style="" align="">⑦&emsp;官報や電話帳等一般に公開されている情報。</div>
+<div class=rui id="rule_1032" style="" align="">（２）会員等は、当社が本契約に関する支払状況の管理業務の一部または全部あるいは当社の事務を委託する場合に、当社が（1）により収集した（1）①から⑦の個人情報を保護措置を講じたうえで、当該委託先に提供し、当該委託先が委託目的の範囲内で利用することに同意します。また当社が「債権管理回収業に関する特別措置法」に基づく債権回収会社等に債権回収の委託（債権譲渡も含みます。）をする場合、当社が（1）により収集した（1）①から⑦の個人情報を保護措置を講じたうえで、債権回収会社等に提供し、当該債権回収会社等がその委託目的の範囲内で利用することに同意します。</div>
+<div  id="rule_1033" style="" align=""><span class="fw-bold">第２条&emsp;（個人情報の利用）</span></div>
+<div class=jou-text id="rule_1034" style="" align="">会員等は、当社が下記の目的のために前条（1）①から③の個人情報を利用することに同意します。</div>
+<div class=moku id="rule_1035" style="" align="">①&emsp;クレジットカード事業（融資関連事業を含みます。以下同じ。）におけるカードの機能、特典・サービスの提供、宣伝物・印刷物の送付等（郵便、電話、電子メール等の方法によるものとします。以下同じ。）の営業案内、市場調査、商品開発に利用する場合。</div>
+<div class=moku id="rule_1036" style="" align="">②&emsp;個別信用購入あっせん業、集金代行業および保証業における宣伝物・印刷物の送付等の営業案内、関連するアフターサービス、市場調査、商品開発に利用する場合。</div>
+<div class=moku id="rule_1037" style="" align="">③&emsp;保険代理店事業における宣伝物・印刷物の送付等の営業案内、関連するアフターサービス、市場調査、商品開発に利用する場合。</div>
+<div class=moku id="rule_1038" style="" align="">④&emsp;金融商品仲介業における宣伝物・印刷物の送付等の営業案内、関連するアフターサービス、市場調査、商品開発に利用する場合。</div>
+<div class=moku id="rule_1039" style="" align="">⑤&emsp;クレジットカード事業、個別信用購入あっせん業、集金代行業、保証業、保険代理店事業、金融商品仲介業における提携会社等から受託して行う宣伝物・印刷物の送付等の営業案内。</div>
+<div class=fuki-text id="rule_1040" style="">上記の具体的な事業内容については当社ホームページ（https://www.pocketcard.co.jp）で公表しております。</div>
+<div  id="rule_1041" style="" align=""><span class="fw-bold">第３条&emsp;（信用情報機関が保有する信用情報の利用および信用情報機関への信用情報の提供）</span></div>
+<div class=rui id="rule_1042" style="" align="">（１）信用情報機関が保有する信用情報の利用に関する同意</div>
+<div class=rui-text id="rule_1043" style="" align="">会員等は、下記の事項に同意します。</div>
+<div class=moku id="rule_1044" style="" align="">①&emsp;当社は、会員等および当該会員等の配偶者の本人を特定するための情報（氏名、生年月日、電話番号、本人確認書類の記号番号等、住所、等）を、当社が加盟する信用情報機関（注）およびこれと提携する信用情報機関（以下、「提携信用情報機関」といいます。）に提供し、会員等および当該会員等の配偶者に関する信用情報（（3）①に定める情報をいいます。以下同じ。）をこれら信用情報機関に照会します。</div>
+<div class=moku id="rule_1045" style="" align="">②&emsp;上記①の照会により、これら信用情報機関に会員等および当該会員等の配偶者の信用情報が登録されている場合は、当該信用情報の提供を受け、会員等の支払能力・返済能力の調査のために利用します。</div>
+<div class=moku-text id="rule_1046" style="" align="">（注）個人の支払能力・返済能力に関する信用情報を、当該機関に加盟する事業者（以下「加盟事業者」といいます。）に提供することを業とするものをいいます。</div>
+<div class=rui id="rule_1047" style="" align="">（２）信用情報機関への信用情報の提供に関する同意</div>
+<div class=rui-text id="rule_1048" style="" align="">会員等は、下記の事項に同意します。</div>
+<div class=moku id="rule_1049" style="" align="">①&emsp;当社は、会員等および当該会員等の配偶者にかかる本契約に基づく下表に定める信用情報を、当社が加盟する信用情報機関に提供します。これらの信用情報は、当該信用情報機関において下表に定める期間保有され、（3）に記載のとおり利用されます。</div>
+<div class=table id="rule_1050" style=""><table style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);"><tbody><tr><td rowspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="">登録情報</p></td><td colspan="2" style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>登録期間</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 28px; text-indent: -28px;">（株）シー・アイ・シー</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="padding-left: 28px; text-indent: -28px;">（株）日本信用情報機構</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="">本契約の申込みにかかる事実</p><p style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="">（本人を特定するための情報および申込みの事実）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>当社が信用情報機関に照会した日から6ヶ月間</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>照会日から6ヶ月以内</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>本契約にかかる事実</p><p style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="">（本人を特定するための情報および本契約に関する客観的な取引事実）</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="">契約期間中および契約終了後5年以内</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="">契約継続中および契約終了後5年以内</p><p>（ただし、債権譲渡の事実にかかる情報については当該事実の発生日から1年以内）</p></td></tr><tr><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p style="">上記、本契約にかかる事実に債務の支払いを延滞した事実が含まれる場合</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>契約期間中および契約終了後5年間</p></td><td style="border-style:solid;border-width:1px;border-color:rgb(0, 0, 0);"><p>契約継続中および契約終了後5年以内</p><p>（ただし、債権譲渡の事実にかかる情報については当該事実の発生日から1年以内）</p></td></tr></tbody></table></div>
+<div class=moku id="rule_1051" style="" align="">②&emsp;上記①により、当社が提供する信用情報は下記のとおりです。</div>
+<div class=fuki-text id="rule_1052" style="">（イ）㈱シー・アイ・シー</div>
+<div class=fuki-text id="rule_1053" style="">会員等および当該会員等の配偶者の本人を特定するための情報（氏名、生年月日、住所、電話番号、勤務先、勤務先電話番号、本人確認書類の記号番号、等）。</div>
+<div class=fuki-text id="rule_1054" style="">申込・契約の内容に係る情報（契約の種類、申込日、契約日、契約額、貸付額、商品名およびその数量・回数・期間、支払回数、等）。</div>
+<div class=fuki-text id="rule_1055" style="">支払い等に関する情報（請求額、入金額、利用残高、割賦残高、年間請求予定額、支払日、完済日、延滞等支払状況に関する情報、等）。</div>
+<div class=fuki-text id="rule_1056" style="">（ロ）㈱日本信用情報機構</div>
+<div class=fuki-text id="rule_1057" style="">会員等および当該会員等の配偶者にかかる本申込および本契約に基づく個人情報（本人を特定するための情報（氏名、生年月日、性別、住所、電話番号、勤務先、勤務先電話番号、運転免許証等の記号番号等）ならびに申込日および申込商品種別等の情報、契約内容に関する情報（契約の種類、契約日、貸付日、契約金額、貸付金額、保証額、商品名およびその数量等、支払回数等）、返済状況に関する情報（入金日、入金予定日、残高金額、年間請求予定額、完済日、延滞、延滞解消等）、および取引事実に関する情報（債権回収、債務整理、保証履行、強制解約、破産申立、債権譲渡等）（会員等および当該会員等の配偶者との婚姻関係にかかる情報を含みます。））</div>
+<div class=rui id="rule_1058" style="" align="">（３）信用情報機関による信用情報の利用および加盟事業者に対する提供に関する同意</div>
+<div class=rui-text id="rule_1059" style="" align="">会員等は、当社が加盟する信用情報機関が、当該機関および提携信用情報機関の加盟事業者による会員等および会員等の配偶者の支払能力・返済能力の調査に資することを目的に、保有する信用情報を以下のとおり利用すること、および加盟事業者に提供することに同意します。</div>
+<div class=moku id="rule_1060" style="" align="">①&emsp;信用情報機関が保有する信用情報</div>
+<div class=moku-text id="rule_1061" style="" align="">当社が加盟する信用情報機関は、下記の信用情報を保有します。</div>
+<div class=fuki-text id="rule_1062" style="">（イ）上記（2）①により、当社を含め、信用情報機関の加盟事業者から提供を受けた情報</div>
+<div class=fuki-text id="rule_1063" style="">（ロ）信用情報機関が収集した①以外の情報</div>
+<div class=fuki-text id="rule_1064" style="">（ハ）信用情報機関が、保有する信用情報に分析等の処理を行い算出した数値等の情報、その関連情報</div>
+<div class=moku id="rule_1065" style="" align="">②&emsp;信用情報機関による信用情報の利用</div>
+<div class=moku-text id="rule_1066" style="" align="">当社が加盟する信用情報機関は、保有する信用情報を下記のとおり利用します。</div>
+<div class=fuki-text id="rule_1067">（イ）信用情報の確認、調査、名寄せ・合算、その他信用情報機関の業務を適切に実施するための処理</div>
+<div class=fuki-text id="rule_1068" style="">（ロ）信用情報の分析等の処理およびそれに基づく数値等の情報の算出</div>
+<div class=moku id="rule_1069" style="" align="">③&emsp;信用情報機関による加盟事業者に対する信用情報の提供</div>
+<div class=moku-text id="rule_1070" style="" align="">当社が加盟する信用情報機関は、信用情報（①（イ）（ロ）（ハ））を加盟事業者へ提供します。また、信用情報（①（イ））を、提携信用情報機関を通じてその加盟事業者へ提供します。</div>
+<div class=rui id="rule_1071" style="" align="">（４）当社が加盟する信用情報機関およびその提携信用情報機関</div>
+<div class=moku id="rule_1072" style="" align="">①&emsp;当社が加盟する信用情報機関の名称等</div>
+<div class=moku-text id="rule_1073" style="" align="">当社が加盟する信用情報機関の名称、問い合わせ電話番号は下記のとおりです。また、本契約期間中に新たに信用情報機関に加盟し、信用情報を利用・提供する場合は、別途、書面（電磁的記録を含みます。）により通知し、同意を得るものとします。</div>
+<div class=fuki-text id="rule_1074">（イ）名称：㈱シー・アイ・シー</div>
+<div class=fuki-text id="rule_1075">（割賦販売法に基づく指定信用情報機関）</div>
+<div class=fuki-text id="rule_1076">（貸金業法に基づく指定信用情報機関）</div>
+<div class=fuki-text id="rule_1077">お問い合わせ先：0570－666－414</div>
+<div class=fuki-text id="rule_1078">ホームページアドレス：https://www.cic.co.jp/</div>
+<div class=fuki-text id="rule_1079">※㈱シー・アイ・シーの加盟資格、加盟事業者名、信用情報の利用目的および利用方法、同社が実施する「クレジット・ガイダンス」については、上記の同社のホームページをご覧ください。</div>
+<div class=fuki-text id="rule_1080">（ロ）㈱日本信用情報機構</div>
+<div class=fuki-text id="rule_1081">（貸金業法に基づく指定信用情報機関）</div>
+<div class=fuki-text id="rule_1082">お問い合わせ先：0570－055－955</div>
+<div class=fuki-text id="rule_1083">ホームページアドレス：https://www.jicc.co.jp</div>
+<div class=fuki-text id="rule_1084">※㈱日本信用情報機構の加盟資格、加盟会員企業名等の詳細は、上記の同社が開設しているホームページをご覧ください。</div>
+<div class=moku id="rule_1085" style="" align="">②&emsp;提携信用情報機関の名称等</div>
+<div class=moku-text id="rule_1086" style="" align="">提携信用情報機関の名称、問い合わせ電話番号は、下記のとおりです。</div>
+<div class=moku-text id="rule_1087" style="" align="">全国銀行個人信用情報センター</div>
+<div class=moku-text id="rule_1088" style="" align="">お問い合わせ先：03－3214－5020</div>
+<div class=moku-text id="rule_1089" style="" align="">ホームページアドレス：https://www.zenginkyo.or.jp/pcic/</div>
+<div class=moku-text id="rule_1090" style="" align="">※全国銀行個人信用情報センターの加盟資格、加盟事業者名等の詳細は、上記の同社のホームページをご覧ください。</div>
+<div  id="rule_1091" style="" align=""><span class="fw-bold">第４条&emsp;（個人情報の提供・利用）</span></div>
+<div class=fuki-text id="rule_1092" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）会員等は、当社が下記の場合に第1条（1）①②の個人情報を保護措置を講じたうえで提携会社に提供し当該提携会社が利用することに同意します。なお、当社独自のクレジットカードの場合は、提携会社はないので本条の適用を除きます。</div>
+<div class=fuki-text id="rule_1093" style="">●当社と個人情報の提供に関する契約を締結した当社の提携会社が、本同意条項末尾に記載の事業における以下の利用目的により個人情報を利用する場合。</div>
+<div class=fuki-text id="rule_1094" style="">①&emsp;本同意条項末尾に記載の事業における宣伝物・印刷物等の送付等の営業案内。</div>
+<div class=fuki-text id="rule_1095">②&emsp;本同意条項末尾に記載の事業におけるポイントの管理および特典・サービスの提供。</div>
+<div class=fuki-text id="rule_1096">③&emsp;本同意条項末尾に記載の事業における商品・サービス等の市場調査、商品開発。</div>
+<div class=fuki-text id="rule_1097" style="">（2）前項の当該提携会社等への個人情報の提供期間は、原則として本契約期間中および本契約終了日から1年間とします。なお、当該提携会社等における個人情報の利用期間については各社にお問い合わせください。</div>
+<div  id="rule_1098" style="" align=""><span class="fw-bold">第５条&emsp;（個人情報の公的機関等への提供）</span></div>
+<div class=fuki-text id="rule_1099">会員等および会員等の配偶者は、当社が各種法令の規定により提出を求められた場合、およびそれに準ずる公共の利益のため、当社が妥当と判断した場合、公的機関等に個人情報を提供することに同意します。</div>
+<div  id="rule_1100" style="" align=""><span class="fw-bold">第６条&emsp;（個人情報の開示・訂正・削除）</span></div>
+<div class=fuki-text id="rule_1101" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）会員等および会員等の配偶者は、当社および第3条で記載する個人信用情報機関ならびに第4条で記載する当社と個人情報の提供に関する契約を締結した提携会社に対して、個人情報の保護に関する法律に定めるところにより、自己に関する個人情報を開示するよう請求することができます。</div>
+<div class=fuki-text id="rule_1102">①&emsp;当社に開示を求める場合には、第9条記載の窓口に連絡ください。開示請求手続き（受付窓口、受付方法、必要な書類、手数料等）の詳細についてお答えします。また開示請求手続きに関しましては、当社ホームページ（https://www.pocketcard.co.jp）によってもお知らせしております。</div>
+<div class=fuki-text id="rule_1103">②&emsp;個人信用情報機関に開示を求める場合には、第3条記載の個人信用情報機関に連絡してください。</div>
+<div class=fuki-text id="rule_1104">③&emsp;当社の提携会社等に開示を求める場合には、本同意条項末尾に記載の提携会社等に連絡してください。</div>
+<div class=fuki-text id="rule_1105" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）万一個人情報の内容が事実でないことが判明した場合には、当社はすみやかに利用目的の達成に必要な範囲内で訂正または削除に応じるものとします。</div>
+<div  id="rule_1106" style="" align=""><span class="fw-bold">第７条&emsp;（本同意条項に不同意の場合）</span></div>
+<div class=fuki-text id="rule_1107">当社は会員等が本契約に必要な記載事項（申込書に会員等が記載もしくは入力すべき事項）の記載もしくは入力を希望しない場合および本同意条項の内容の全部または一部を承認できない場合、本契約をお断りすることがあります。ただし、本同意条項第2条または第4条に同意しない場合でも、これを理由に当社が本契約をお断りすることはありません。</div>
+<div  id="rule_1108" style="" align=""><span class="fw-bold">第８条&emsp;（利用・提供中止の申出）</span></div>
+<div class=fuki-text id="rule_1109">本同意条項第2条および第4条による同意を得た範囲内で当社が当該情報を利用、提供している場合であっても、中止の申出があった場合は、それ以降の当社での利用、他社への提供を中止する措置を取ります。ただし、当社が送付する請求書等に記載される営業案内および同封される宣伝物・印刷物についてはこの限りではありません。</div>
+<div  id="rule_1110" style="" align=""><span class="fw-bold">第９条&emsp;（個人情報の取扱いに関する問い合わせ窓口）</span></div>
+<div class=fuki-text id="rule_1111" style="">会員等は、当社に対して、保有する自身の個人情報について、利用目的の通知、または開示を求めることができます。またその結果、必要な場合は、当社に内容の訂正、追加、削除、利用の停止、消去、第三者への提供の停止および苦情・相談を申し付けることができます。</div>
+<div class=fuki-text id="rule_1112" style="">当社では、これらを受け付けた場合、適切かつ迅速に対応させていただきます。また、そのための窓口を以下のとおり開設しています。</div>
+<div class=fuki-text id="rule_1113" style="">ポケットカード株式会社&emsp;お客さまセンター</div>
+<div class=fuki-text id="rule_1114" style="">個人情報保護管理者：お客さまセンター長</div>
+<div class=fuki-text id="rule_1115">〒541−0048&emsp;大阪府大阪市中央区瓦町2−5−14</div>
+<div class=fuki-text id="rule_1116">電話番号：携帯電話から 0570−064−373</div>
+<div class=fuki-text id="rule_1117">携帯電話以外から 0120−12−9255</div>
+<div  id="rule_1118" style="" align=""><span class="fw-bold">第１０条&emsp;（本契約が不成立の場合）</span></div>
+<div class=fuki-text id="rule_1119" style="">本契約が不成立の場合であっても、本申込みをした事実は、第1条および第3条（2）に基づき、当該契約の不成立の理由の如何を問わず一定期間利用されますが、それ以外に利用されることはありません。</div>
+<div  id="rule_1120" style="" align=""><span class="fw-bold">第１１条&emsp;（合意管轄裁判所）</span></div>
+<div class=fuki-text id="rule_1121">会員等は、会員等と当社との間で、万一訴訟の必要が生じた場合は、会員等の住所地または当社の本社、支店、営業所もしくはセンター所在地を管轄する簡易裁判所または地方裁判所を合意管轄裁判所とすることに同意します。</div>
+<div  id="rule_1122" style="" align=""><span class="fw-bold">第１２条&emsp;（条項の変更）</span></div>
+<div class=fuki-text id="rule_1123">本同意条項は、法令に定める手続きにより、必要な範囲内で変更できるものとします。</div>
+<div  id="rule_1124" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="center"><span class="fw-bold">会員専用ネットサービス規約</span></div>
+<div  id="rule_1125" style="" align=""><span class="fw-bold">第１条&emsp;（本規約の適用）</span></div>
+<div class=fuki-text id="rule_1126" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）本規約は、ポケットカード株式会社（以下「当社」といいます。）が発行したクレジットカード（以下「カード」といいます。）の会員規約（以下「会員規約」といいます。）に付随するもので、当社ホームページ上にあるカード会員（以下「会員」といいます。）専用のサイト（以下「ネットサービス」といいます。）を通じて提供されるサービス（以下｢本サービス｣といいます。）の内容、利用方法等を規定し、会員と当社との間の契約関係に適用されます。</div>
+<div class=fuki-text id="rule_1127" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）会員規約の内容と本規約の内容が異なる場合は、本サービスの提供を受けるために行う、または行った行為については、本規約の定める内容が優先して適用されるものとします。</div>
+<div  id="rule_1128" style="" align=""><span class="fw-bold">第２条&emsp;（本規約の変更）</span></div>
+<div class=fuki-text id="rule_1129" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）当社は、会員への事前通知または承諾なくして、本規約の変更ができるものとします。</div>
+<div class=fuki-text id="rule_1130" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）本規約を変更した場合、以下のいずれかの方法により会員に告知します。</div>
+<div class=fuki-text id="rule_1131">①&emsp;会員の電子メールアドレス宛に電子メールを送信する方法</div>
+<div class=fuki-text id="rule_1132">②&emsp;当社Webサイト上での公表による方法</div>
+<div class=fuki-text id="rule_1133">③&emsp;その他当社が適当と判断する告知方法</div>
+<div class=fuki-text id="rule_1134">（3）第1項の変更については、変更後本サービスを利用した時点で会員は変更事項を了承したものとみなします。</div>
+<div  id="rule_1135" style="" align=""><span class="fw-bold">第３条&emsp;（利用登録）</span></div>
+<div class=fuki-text id="rule_1136" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）本サービスの利用登録（以下｢利用登録｣といいます。）を行うことができる者は、会員とします。</div>
+<div class=fuki-text id="rule_1137" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）本サービスの利用を希望する会員は、本規約を承認のうえ、電子メールアドレス等所定の事項をあらかじめ当社に申請し、当社の利用承認を得るものとします。</div>
+<div  id="rule_1138" style="" align=""><span class="fw-bold">第４条&emsp;（本サービスの内容）</span></div>
+<div class=fuki-text id="rule_1139" style="">当社は、会員に対し、本サービスとして、インターネット上で以下のサービスを提供するものとします。ただし、本サービスは会員により一部異なる場合があります。</div>
+<div class=fuki-text id="rule_1140" style="">①&emsp;利用可能額照会、請求額照会等の照会サービス</div>
+<div class=fuki-text id="rule_1141" style="">②&emsp;支払方法の変更手続き</div>
+<div class=fuki-text id="rule_1142" style="">③&emsp;その他当社が提供するサービス</div>
+<div  id="rule_1143" style="" align=""><span class="fw-bold">第５条&emsp;（IDおよびパスワード）</span></div>
+<div class=fuki-text id="rule_1144" style="">会員は、自己のIDおよびパスワードをネットサービスの指定のページ上に入力することにより、本サービスの提供を受けられるものとし、IDおよびパスワードの取扱いにあたっては、以下の事項を承諾するものとします。</div>
+<div class=fuki-text id="rule_1145">①&emsp;IDおよびパスワードは、会員のみが利用できるものとします。</div>
+<div class=fuki-text id="rule_1146">②&emsp;会員は、自己のIDおよびパスワードの管理ならびに使用について一切の責任を負うものとし、そのIDおよびパスワードを用いてなされた一切の行為およびその結果について、会員が行ったものとみなされるものとします。</div>
+<div class=fuki-text id="rule_1147">③&emsp;会員がIDおよびパスワードを失念した場合またはIDおよびパスワードが第三者に知られた場合、会員は直ちに当社にその旨を通知して、当社の指示に従うものとします。</div>
+<div class=fuki-text id="rule_1148">④&emsp;会員は、IDおよびパスワードを自己の責任において適宜変更することができるものとします。</div>
+<div class=fuki-text id="rule_1149">⑤&emsp;会員は、自己のIDおよびパスワードが使用されて当社または第三者に損害を与えた場合、会員の責任においてその損害を賠償しなければならないものとします。この場合、当社は、会員の故意過失の有無にかかわらず、いかなる責任も負わないものとします。</div>
+<div class=fuki-text id="rule_1150" style="">第６条&emsp;（会員への通知）</div>
+<div class=fuki-text id="rule_1151" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）当社から会員に通知をする際には、会員の電子メールアドレス宛への電子メールの送付、または当社Webサイト上での公表、当社が適当と認めるその他の方法によって通知します。</div>
+<div class=fuki-text id="rule_1152" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）電子メールによる通知の場合、会員が登録した電子メールアドレスにその内容を発信した時をもって、通知が完了したものとみなします。</div>
+<div class=fuki-text id="rule_1153" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（3）当社Webサイト上で公表する場合、当社が当該通知を当社Webサイト上に公表した時をもって、通知が完了したものとみなします。</div>
+<div  id="rule_1154" style="" align=""><span class="fw-bold">第７条&emsp;（禁止事項）</span></div>
+<div class=fuki-text id="rule_1155" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）会員は、本規約に定める事項を遵守するほか、以下の各号に定める事項を本サービスにおいて行わないものとします。</div>
+<div class=fuki-text id="rule_1156">①&emsp;会員として有する権利を第三者に譲渡または使用させること。</div>
+<div class=fuki-text id="rule_1157">②&emsp;IDおよびパスワードを第三者に使用させること。</div>
+<div class=fuki-text id="rule_1158">③&emsp;本サービスの利用によって取得した情報を商業的に利用すること。</div>
+<div class=fuki-text id="rule_1159">④&emsp;本サービスの利用によって取得した情報または加工したものを当社の許可なく掲示・配布・配信などをすること。</div>
+<div class=fuki-text id="rule_1160">⑤&emsp;本サービスの一部または全部を利用して、営利を目的とする活動を行うこと。</div>
+<div class=fuki-text id="rule_1161">⑥&emsp;虚偽の内容を申請・登録すること。</div>
+<div class=fuki-text id="rule_1162">⑦&emsp;本サービスにより利用し得る情報を改ざんすること。</div>
+<div class=fuki-text id="rule_1163">⑧&emsp;有害なコンピュータプログラム等を送信し、または書き込む行為。</div>
+<div class=fuki-text id="rule_1164">⑨&emsp;本サービスを提供する設備に著しい支障を及ぼし、または及ぼすおそれのある行為。</div>
+<div class=fuki-text id="rule_1165">⑩&emsp;当社または第三者に損害を与えること。</div>
+<div class=fuki-text id="rule_1166">⑪&emsp;当社または第三者を誹謗・中傷したり、名誉・信頼を傷つけたりすること。</div>
+<div class=fuki-text id="rule_1167">⑫&emsp;当社および本サービスの運営を妨げる行為またはそのおそれのある行為。</div>
+<div class=fuki-text id="rule_1168">⑬&emsp;公序良俗に反する内容の情報・文書・図画・図形・音声などを本サービス上で公開すること。</div>
+<div class=fuki-text id="rule_1169">⑭&emsp;法令に違反する行為または法令に違反する行為を助長する行為もしくはそれらのおそれのある行為。</div>
+<div class=fuki-text id="rule_1170">⑮&emsp;その他、当社が不適当または不適切と判断する行為。</div>
+<div class=fuki-text id="rule_1171" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）当社が本サービスの運営上不適当と判断した情報が本サービスに書き込まれ、または本サービスからのリンク先に書き込まれた場合、当社は会員その他当該情報の書き込みを行った者の承諾なしに、本サービスに掲載された当該情報を削除し、または張られたリンクを解除できるものとします。ただし、当社はこれらの情報の削除などをする義務および本サービス内の各ページにこれらの情報が掲載されているかどうかを監視する義務を負うものではありません。</div>
+<div  id="rule_1172" style="" align=""><span class="fw-bold">第８条&emsp;（著作権などの尊重）</span></div>
+<div class=fuki-text id="rule_1173" style="">本サービスの内容、情報など、本サービスに含まれる著作権、商標その他の知的財産権などは、すべてその権利者に帰属するものとし、会員はこれらの権利を侵害し、または侵害するおそれのある行為をしてはならないものとします。</div>
+<div  id="rule_1174" style="" align=""><span class="fw-bold">第９条&emsp;（本サービスの利用の停止または制限）</span></div>
+<div class=fuki-text id="rule_1175" style="">当社は、会員が次のいずれかに該当する場合、本サービスの利用の停止または会員の本サービス利用の制限を行うことができるものとします。</div>
+<div class=fuki-text id="rule_1176">①&emsp;カードの会員資格を喪失した場合、またはカードを退会した場合。</div>
+<div class=fuki-text id="rule_1177">②&emsp;会員が第7条（1）記載の各行為に及んだ場合。</div>
+<div class=fuki-text id="rule_1178">③&emsp;本規約に違反した場合。</div>
+<div class=fuki-text id="rule_1179">④&emsp;本サービスの利用に際し、必要とされる債務の支払または義務の履行を行わなかった場合。</div>
+<div class=fuki-text id="rule_1180">⑤&emsp;当社が別途定める期間以上の本サービスの利用がなかった場合。</div>
+<div class=fuki-text id="rule_1181">⑥&emsp;その他会員の利用状況、登録内容が不適当と判断した場合。</div>
+<div  id="rule_1182" style="" align=""><span class="fw-bold">第１０条&emsp;（免責事項）</span></div>
+<div class=fuki-text id="rule_1183">当社は、本サービスの利用に関して、その内容・情報などの完全性、正確性、有用性などの保証を行うものではありません。また、当社は、本サービスの利用によって取得した情報または加工したものに起因して生じた会員の損害について、一切責任を負わないものとします。</div>
+<div  id="rule_1184" style="" align=""><span class="fw-bold">第１１条&emsp;（本サービスの一時中断・中止）</span></div>
+<div class=fuki-text id="rule_1185">当社は、サービス提供のための装置の保守点検・設備更新・運営上の必要、および天災・火災・災害・暴動・労働争議・装置の故障などの事由により、会員への事前通知なくして、本サービスの提供を中断することがあります。これによって会員に損害が生じても、当社はそれについて一切責任を負わないものとします。また、当社は、営業上その他の理由により本サービスを終了することがあります。</div>
+<div  id="rule_1186" style="" align=""><span class="fw-bold">第１２条&emsp;（本サービスの内容変更・追加）</span></div>
+<div class=fuki-text id="rule_1187">当社は、会員への事前通知なくして、本サービスの内容を変更または追加をすることがあり、会員はこれを承諾するものとします。</div>
+<div  id="rule_1188" style="" align=""><span class="fw-bold">第１３条&emsp;（準拠法）</span></div>
+<div class=fuki-text id="rule_1189">本規約などの成立、有効性、解釈、履行などに関しては日本国法が適用されます。</div>
+<div  id="rule_1190" style="" align=""><span class="fw-bold">第１４条&emsp;（合意管轄）</span></div>
+<div class=fuki-text id="rule_1191">会員は、当社との間で、万一訴訟の必要が生じた場合は、会員の住所地または当社の本社、支店、営業所もしくはセンター所在地を管轄する簡易裁判所または地方裁判所を合意管轄裁判所とすることに同意します。</div>
+<div  id="rule_1192" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="center"><span class="fw-bold">ご利用代金明細書に関する特約</span></div>
+<div class=fuki-text id="rule_1193" style="">本特約は、対象会員（第1条に定義する会員をいいます。）との関係において、会員規約第10条第5項に定められた明細書（以下「明細書」といいます。）の通知の取扱い等について特約として定めたものです。なお、本特約において特に定めのない用語については、会員規約におけるものと同様の意味を有します。</div>
+<div  id="rule_1194" style="" align=""><span class="fw-bold">第１条&emsp;（本特約の適用範囲およびその効力）</span></div>
+<div class=fuki-text id="rule_1195" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）本特約は、会員規約に定める会員のうち、当社が別に定めるカードの貸与または会員としての認証および決済に用いるIDの発行を受けた者（以下「対象会員」といいます。）に対して適用されるものとします。この場合において、当社が別に定めるカードは、当社ホームページに掲出する方法により公表します。</div>
+<div class=fuki-text id="rule_1196" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）本特約と会員規約の定めが異なる場合には、本特約が優先して適用されます。</div>
+<div  id="rule_1197" style="" align=""><span class="fw-bold">第２条&emsp;（明細書の電磁的方法による通知）</span></div>
+<div class=fuki-text id="rule_1198" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）当社は、対象会員に対し、会員規約の規定にかかわらず、当社の会員専用ネットサービス（以下「ネットサービス」といいます。）により、電磁的方法によって明細書の内容を通知するものとします。対象会員は、「ネットサービス」内において明細書の閲覧および所定の方式によるダウンロードを行うことができます。</div>
+<div class=fuki-text id="rule_1199" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）当社は、Web明細サービスに関する規約第4条第1項に基づき、明細書の内容が確定した旨の通知を、対象会員が届け出た電子メールアドレス宛（ショート・メッセージ・サービスの利用が可能な電話番号等も含みます。）に送信するものとします。</div>
+<div class=fuki-text id="rule_1200" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（3）対象会員は、第1項の方法により明細書の電磁的方法による提供を受けることができるよう、会員規約に定める約定支払日の前月10日の登録受付終了時間までに、「ネットサービス」、および「Web明細サービス」に登録し、かつ対象会員の資格を有する間、これを維持するものとします。</div>
+<div  id="rule_1201" style="" align=""><span class="fw-bold">第３条&emsp;（明細書発行手数料の支払義務）</span></div>
+<div class=fuki-text id="rule_1202" style="">前条の定めにかかわらず、当社は、対象会員の申し出がある場合または対象会員が前条第3項の義務を履行しない場合には、書面による明細書を対象会員の届出住所地宛てに送付するものとします。この場合、対象会員は、当社に対し明細書の発行および送付にかかる明細書発行手数料（以下「明細手数料」といいます。）として当社が定める額を支払うものとします。</div>
+<div  id="rule_1203" style="" align=""><span class="fw-bold">第４条&emsp;（明細手数料の支払期日および支払方法）</span></div>
+<div class=fuki-text id="rule_1204" style="">当社は、対象会員が前条に基づき当社から書面による明細書の送付を受けた場合、対象会員へ明細手数料の支払期日を明細書で通知するものとし、対象会員は支払期日に、カード利用代金の支払いと同様の方法により、当社に支払うものとします。</div>
+<div  id="rule_1205" style="" align=""><span class="fw-bold">第５条&emsp;（明細手数料の免除）</span></div>
+<div class=fuki-text id="rule_1206" style="">第3条&emsp;の定めにかかわらず、以下のいずれかに該当する場合、当社は、当該対象会員に対し、明細手数料の支払義務を免除します。</div>
+<div class=fuki-text id="rule_1207">①&emsp;明細書に、ショッピング分割払いおよびボーナス2回払いの利用残高、ボーナス一括払いの明細が含まれる場合</div>
+<div class=fuki-text id="rule_1208">②&emsp;明細書に記載の請求金額に、ショッピングリボルビング払いの残高にかかるものが含まれる場合</div>
+<div class=fuki-text id="rule_1209">③&emsp;明細書に記載の請求金額に、キャッシング一括払い、キャッシングリボルビング払いによるものが含まれる場合</div>
+<div class=fuki-text id="rule_1210">④&emsp;前各号のほか、当社が明細手数料の支払いを要しないものとして別途認める場合</div>
+<div  id="rule_1211" align="" style=""><span class="fw-bold">第６条&emsp;（本特約の変更）</span></div>
+<div class=fuki-text id="rule_1212">本特約の変更については、会員規約の改定に関する条項の適用を受けるものとします。</div>
+<div class=fuki-title id="rule_1213">付則</div>
+<div class=fuki-text id="rule_1214" style="">本特約は、2021年9月10日から適用します。</div>
+<div  style="" id="rule_1261">&emsp;</div>
+<div  id="rule_1215" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="center"><span class="fw-bold">Web明細サービスに関する規約</span></div>
+<div  id="rule_1216" style="" align=""><span class="fw-bold">第１条&emsp;（目的）</span></div>
+<div class=fuki-text id="rule_1217">本規約は、ポケットカード株式会社（以下「当社」といいます。）が発行したクレジットカード（以下「カード」といいます。）の会員規約（以下「会員規約」といいます。）に付随するもので、Ｗｅｂ明細サービスの内容、利用方法等を規定し、第3条で定める登録会員と当社との間の契約関係について定めるものです。</div>
+<div  id="rule_1218" style="" align=""><span class="fw-bold">第２条&emsp;（Ｗｅｂ明細サービス）</span></div>
+<div class=fuki-text id="rule_1219" style="">Ｗｅｂ明細サービスとは、当社が第3条で定める登録会員に対し、カードショッピングおよびカードキャッシングの利用にかかる毎月の利用明細を、郵送による方法に代えて、当社が定めるインターネット・ホームページ（以下「当社ホームページ」といいます。）の会員専用の取引欄に掲載するサービス（以下「本サービス」といいます。）をいいます。</div>
+<div  id="rule_1220" style="" align=""><span class="fw-bold">第３条&emsp;（登録会員）</span></div>
+<div class=fuki-text id="rule_1221">（1）登録会員とは、本規約を承認したうえで、当社の定める方法により本サービスの利用登録を行い、当社がこれを認め、利用登録が完了した者をいいます。</div>
+<div class=fuki-text id="rule_1222">（2）登録会員は、当社所定の方法による本サービスを受けることが可能なパソコン等により、当社ホームページの会員専用の取引欄で利用明細を閲覧でき、また、当該データを印刷、またはファイルに保存できる環境を整えるものとします。</div>
+<div  id="rule_1223" style="" align=""><span class="fw-bold">第４条&emsp;（利用明細の通知方法）</span></div>
+<div class=fuki-text id="rule_1224" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）当社は、登録会員が届け出た電子メールアドレス宛に利用明細が確定したお知らせ（以下「お知らせメール」といいます。）を配信します。登録会員は、当該電子メールを受信後すみやかに、当社ホームページの会員専用の取引欄で利用明細を閲覧し、当該データを印刷、またはファイルに保存することとします。ただし、登録会員は、当社に起因しない通信上のトラブルやインターネット環境等により、お知らせメールが届かない場合があることをあらかじめ承諾するものとします。</div>
+<div class=fuki-text id="rule_1225" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）登録会員は、電子メールアドレスの変更を行った場合には、すみやかに当社ホームページを通じて所定の変更手続きを行うものとします。</div>
+<div class=fuki-text id="rule_1226" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（3）本サービス利用中は、当社から登録会員への利用明細の郵送は停止します。ただし、次のいずれかに該当する場合は、利用明細を郵送します。</div>
+<div class=fuki-text id="rule_1227">①&emsp;貸金業法、割賦販売法その他の法令等によって、書面の交付が必要とされている場合</div>
+<div class=fuki-text id="rule_1228">②&emsp;その他当社が利用明細の郵送が必要と判断した場合</div>
+<div  id="rule_1229" style="" align=""><span class="fw-bold">第５条&emsp;（電子メールアドレス）</span></div>
+<div class=fuki-text id="rule_1230">（1）登録会員は、当社から登録会員に宛てたお知らせメールが不達であるとの通知を当社から受けた場合には、すみやかに登録されている電子メールアドレスの確認、または必要に応じて変更の手続きを行うものとします。</div>
+<div class=fuki-text id="rule_1231" style="">（2）当社は、登録会員が当社に電子メールアドレスを誤って届け出た場合、登録会員が変更の届出を行わなかった場合等、登録会員に起因して生じる登録会員または第三者に対する損害等に関して、一切責任を負わないものとします。</div>
+<div  id="rule_1232" style="" align=""><span class="fw-bold">第６条&emsp;（本サービス利用に必要な情報通信技術の種類および内容）</span></div>
+<div class=fuki-text id="rule_1233">本サービスの利用に関わるWeb閲覧用ブラウザ、暗号化通信環境、および利用明細データのファイル形式等の本サービスの利用環境（以下「サービス利用環境」といいます。）は、当社ホームページにて指定するものとします。なお、本サービスを利用するにあたり、当社がサービス利用環境を変更した場合、登録会員はすみやかにサービス利用環境を整えるものとします。</div>
+<div  id="rule_1234" style="" align=""><span class="fw-bold">第７条&emsp;（本サービスの利用の中止等）</span></div>
+<div class=fuki-text id="rule_1235" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）登録会員が本サービスの利用の中止を希望するときは、当社が定める方法により届け出るものとします。</div>
+<div class=fuki-text id="rule_1236" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）登録会員が本規約のいずれかに違反したと当社が判断した場合は、当社は当該登録会員に通知することなく、本サービスの登録を取り消すことができるものとします。</div>
+<div class=fuki-text id="rule_1237" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（3）当社は、前項に定める場合のほか当社判断により、登録会員に対し、その旨を通知することにより本サービスの提供を一時停止または中止することができるものとします。</div>
+<div class=fuki-text id="rule_1238" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（4）前項に定める本サービスの提供の一時停止または中止により登録会員に何らかの損害、不利益が生じた場合であっても、当社は一切責任を負いません。</div>
+<div class=fuki-text id="rule_1239" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（5）登録会員が本カードを解約した場合は、本サービスは、同時に終了するものとします。</div>
+<div  id="rule_1240" style="" align=""><span class="fw-bold">第８条&emsp;（本規約の適用および変更）</span></div>
+<div class=fuki-text id="rule_1241" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）本規約に定めのない事項は、会員規約等によるものとします。</div>
+<div class=fuki-text id="rule_1242" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）当社は、当社が適当と判断する方法で登録会員に公表または通知することにより、本規約を変更できるものとします。</div>
+<div  style="" id="rule_1262">&emsp;</div>
+<div  id="rule_1243" style="margin-left: 0px; padding-left: 0px; text-indent: 0px;" align="center"><span class="fw-bold">個人情報の取扱いに関する同意条項・オンライン本人確認に関する特則</span></div>
+<div  id="rule_1244" style="" align=""><span class="fw-bold">第１条&emsp;（オンライン本人確認）</span></div>
+<div class=fuki-text id="rule_1245" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）オンライン本人確認とは、犯罪による収益の移転防止に関する法律に基づき、オンラインで行う本人特定事項の確認（本特則において「オンライン本人確認」といいます。）をいいます。</div>
+<div class=fuki-text id="rule_1246" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）当社は、オンライン本人確認の業務の一部を株式会社Liquid（以下「Liquid」といいます。）に委託し、申込者および会員（以下「会員等」といいます。）は、「個人情報の取扱いに関する同意条項」（以下「同意条項」といいます。）の一部として、個人情報の取扱いに関する同意条項・オンライン本人確認に関する特則（以下「特則」といいます。）も合わせて同意します。</div>
+<div  id="rule_1247" style="" align=""><span class="fw-bold">第２条&emsp;（第三者提供）</span></div>
+<div class=fuki-text id="rule_1248" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（1）会員等は、オンライン本人確認を利用する場合、Liquidが提供する本人認証サービスを利用し、当社は、会員等の氏名、生年月日、住所、および画像情報（会員等の容貌等に関するもの、ならびに運転免許証その他の当社が認める本人確認書類に関するもの）（以下総称して「提供情報」といいます。）を、Liquidに提供するものとし、会員等は、これに同意します。</div>
+<div class=fuki-text id="rule_1249" style="margin-left: 14px; padding-left: 14px; text-indent: -14px;" align="">（2）Liquidは、以下の目的で提供情報を保有し利用します。Liquidにおける個人情報の取扱いについては、同社プライバシーポリシー（https://liquidinc.asia/privacy-policy/）をご覧ください。</div>
+<div class=fuki-text id="rule_1250" style="">①&emsp;Liquidが本人認証サービスを提供するため</div>
+<div class=fuki-text id="rule_1251">②&emsp;上記①のサービス提供に付随する本人確認、認証のため</div>
+<div class=fuki-text id="rule_1252" style="margin-left: 28px; padding-left: 14px; text-indent: -14px;" align="">③&emsp;Liquidの技術開発（顔認証エンジン機械学習・画像品質自動判定機械学習・ランダムアクション自動判定機械学習・偽造書類、なりすまし登録検知のための機械学習・不正登録検知を含みます。）のため</div>
+<div class=fuki-text id="rule_1253">④&emsp;上記①または②に付随するアフターサービス、問い合わせ、苦情対応のため</div>
+<div  id="rule_1254" style="" align=""><span class="fw-bold">第３条&emsp;（本特則に不同意の場合）</span></div>
+<div class=fuki-text id="rule_1255" style="">当社は、会員等が本契約に必要な情報の提供をされない場合および本特則の全部または一部を承認できない場合、本契約をお断りすることがあります。</div>
+<div  id="rule_1256" style="" align=""><span class="fw-bold">第４条&emsp;（その他）</span></div>
+<div class=fuki-text id="rule_1257">その他本特則に定めのない事項については、同意条項の規定に従います。</div>
+    </div>
+  </div>
+</body>
+
+</html>
