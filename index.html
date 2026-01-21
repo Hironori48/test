@@ -5,24 +5,16 @@
   <meta charset="utf-8">
   <title>P-oneカード会員規約</title>
 
-  <!-- スマホの表示倍率・幅を正しくするために必須 -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <!-- 外部CSSはここに置く -->
-  https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/style.css?v=20250730160100
-  https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/assets/css/reset-table.css?v=20250730160100
-  https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/caption.css?v=20250730160100
-  https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/decoration.css?v=20250730160100
+  <link rel="stylesheet" href="https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/style.css?v=20250730160100" type="text/css" />
+  <link rel="stylesheet" href="https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/assets/css/reset-table.css?v=20250730160100" />
+  <link rel="stylesheet" href="https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/caption.css?v=20250730160100" type="text/css" />
+  <link rel="stylesheet" href="https://develop.kitei-kanri.jp/kitei/demo_sd_suzuki/admin/parts/decoration.css?v=20250730160100" type="text/css" />
 
   <style>
-    /* フォントファミリ（CSSコメントで記述） */
-    /*
     * {
-      font-family: "Meiryo", sans-serif !important;
-    }
-    */
-    * {
-      font-family: "Hiragino Kaku Gothic Pro", "Hiragino Kaku Gothic Pro W3", "ヒラギノ角ゴ Pro W3", sans-serif !important;
+      <!-- font-family: "Meiryo", sans-serif !important; -->
+       font-family: "Hiragino Kaku Gothic Pro", "Hiragino Kaku Gothic Pro W3","ヒラギノ角ゴ Pro W3", sans-serif !important;
     }
 
     /* ▼ 左右に5%余白を追加 */
@@ -31,54 +23,28 @@
       margin-right: 5%;
     }
 
-    /*
-    table, table * {
-      overflow-wrap: normal !important;
-      word-break: normal !important;
-    }
-    */
+/*
+table, table * {
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+}
+*/
+    
 
-    /* ▼ 画面が狭いときに横スクロールを出す（ページ全体）
-       ※ スマホ向けフォント切り替えを使う間は、min-widthはコメント推奨
-    */
-    /*
+  ▼ 画面が狭いときに横スクロールを出す（ページ全体） 
     html, body {
       min-width: 600px;   /* レイアウトの最低幅。必要に応じて変更 */
       overflow-x: auto;    /* 横スクロールを許可 */
     }
-    */
 
-    /* iPhone等での自動文字拡大を抑制（任意だが推奨） */
-    html {
-      -webkit-text-size-adjust: 100%;
-      text-size-adjust: 100%;
-    }
+    
+    /* もし親要素が overflow:hidden を持っていて横スクロールが出ない場合、
+       その親（例：#appや.main）にも overflow: visible; を指定して回避してください */
 
-    /* =============================
-       スマホ向け：文字を大きくする（ここが追加分）
-       画面幅が480px以下のときに適用
-       ============================= */
-    @media (max-width: 480px) {
-      /* ページ全体の基準サイズを引き上げ（18pxが推奨値） */
-      html, body {
-        font-size: 18px;
-        line-height: 1.8;   /* 長文の可読性UP */
-      }
-
-      /* 表内はやや抑えめ（お好みで調整） */
-      table, table * {
-        font-size: 0.95em;
-        line-height: 1.6;
-      }
-
-      /* 見出しは少し強調（任意） */
-      h1 { font-size: 1.3em; }
-      h2 { font-size: 1.2em; }
-    }
+    
   </style>
+
 </head>
-
-
 <body>
 <div class=indent1>
 
